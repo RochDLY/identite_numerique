@@ -4,10 +4,9 @@ title: "Bibliographie"
 
 ## Références
 
-- Gomez-Mejia, Gustavo (2019), *Les fabriques de soi ? Identité et industrie sur le web*, Paris : MKF.
+- Delannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. *Sens public*. http://sens-public.org/articles/1683/ 
 
-- Souchier, Emmanuël ; Gomez-Mejia, Gustavo ; Candel, Etienne (2019), *Le numérique comme écriture :
-théorique et méthodes d’analyse*, Armand Colin.
+- Gomez-Mejia, G. (2019). *Les fabriques de soi ? Identité et industrie sur le web*. MKF.
 
 - Galinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720
 
@@ -15,62 +14,63 @@ théorique et méthodes d’analyse*, Armand Colin.
 
 - Merzeau, L. (2013b). L’intelligence des traces. *Intellectica. Revue de l’Association pour la Recherche Cognitive*, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088
 
-- Romele, A. et Severo, M. (2015). *Traces numériques et territoires* (Presses des Mines). http://books.openedition.org/pressesmines/1984
+- Merzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? *Questions de communication*, n° 34(2), 41‑54.
 
-- Merzeau, L. (2018). Le profil : un nouveau territoire imaginaire ?. *Questions de communication*, n° 34(2), 41‑54.
+- Romele, A. et Severo, M. (2015). *Traces numériques et territoires* (Presses des Mines). http://books.openedition.org/pressesmines/1984
 
 - Saemmer, A. (2021). Bienvenue dans la Colonie facebook. *Hybrid. Revue des arts et médiations humaines*, (7). https://doi.org/10.4000/hybrid.675
 
+- Souchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). *Le numérique comme écriture : théorique et méthodes d’analyse*. Armand Colin.
 
 - Cassou-Noguès, P. (2022). "Mon Oncle", Dans *La Bienveillance des machines. Comment le numérique nous transforme à notre insu*. Seuil.
 
-- Delannay, Roch. La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. 2022. *Sens public*. http://sens-public.org/articles/1683/ 
-
 ## Références complémentaires 
 
-- Mounier, P. (2018). IBM ou International Busa Machines ? De l’informatique aux humanités. Dans *Les humanités numériques : Une histoire critique* (p. 21‑43). Éditions de la Maison des sciences de l’homme. http://books.openedition.org/editionsmsh/12033
+- Cardon, D. ; Casilli, A. (2015). *Qu’est-ce que le digital labor ?* INA Editions.
 
-- Shannon, C. E. (1948). A mathematical theory of communication. *The Bell System Technical Journal*, 27(3), 379‑423. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
+- Carré D., Panico, R. (2010). « Le contrôle social à l’heure des technologies de mobilité et
+de connectivité : du fichage ciblé des individus au traçage continu des agissements », *Colloque Creis-Terminal*.
 
-- Vitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? *Corela. Cognition, représentation, langage*, (HS-33). https://doi.org/10.4000/corela.11759
+- Casilli, Antonio A. (2010). *Les liaisons numériques : vers une nouvelle sociabilité ?* Seuil.
 
-- Crozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. *I2D - Information, donnees documents*, 53(2), 62‑64.
-
-- Kittler, F. A. (2015). *Mode protégé*. Les Presses du réel.
+- Castoriadis, C. (1975). *L’institution imaginaire de la société*. Seuil.
 
 - Citton, Y. (2019). L’intrastructure d’internet entre immanence et verticalité. Dans *Le Stack. Logiciels, plateformes, souveraineté*. https://hal.archives-ouvertes.fr/hal-02912260
 
+- Crozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. *I2D - Information, donnees documents*, 53(2), 62‑64.
+
+- Ertzscheid, O. (2013). *Qu’est-ce que l’identité numérique ?* OpenEdition Press.
+
+- Flichy, P. (2001). *L’imaginaire d’internet*. La Découverte.
+
+- Galinon-Mélénec, B. ; Liénard, F. ; Zlitni, S. (2015). *L’homme-trace : inscriptions corporelles et techniques*. CNRS Editions.
+
+- Goody, J. (1979). *La raison graphique : la domestication de la pensée sauvage*. Minuit.
+
 - Hayles, N. K. (2015). *Parole, écriture, code*. Les Presses du réel.
+
+- Jeanneret, Y. (2019). *La fabrique de la trace*. ISTE Editions.
+
+- Kittler, F. A. (2015). *Mode protégé*. Les Presses du réel.
+
 - Kembellec, G. (2020). L’érudition numérique palimpseste. *Hermes*, La Revue, n° 87(2), 145‑158.
+
+- Lakoff et Johnson (1980 [1986]). *Les métaphores dans la vie quotidienne*. Minuit.
+
+- Mauss, M. (2007). *Essai sur le don : forme et raison de l'échange dans les sociétés archaïques don contre-don*. PUF.
+
+- Marx, K. (1968). *Le Capital. Livre I*. Gallimard.
 
 - Monjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. *Sens public*. https://doi.org/10.7202/1043638ar
 
 - Merzeau, L. (2013). Éditorialisation collaborative d’un événement. *Communication et organisation*, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158
 
+- Mounier, P. (2018). IBM ou International Busa Machines ? De l’informatique aux humanités. Dans *Les humanités numériques : Une histoire critique* (p. 21‑43). Éditions de la Maison des sciences de l’homme. http://books.openedition.org/editionsmsh/12033
+
+- Shannon, C. E. (1948). A mathematical theory of communication. *The Bell System Technical Journal*, 27(3), 379‑423. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
+
 - Vitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? *Sens public*. https://hal.archives-ouvertes.fr/hal-01599208
+
+- Vitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? *Corela. Cognition, représentation, langage*, (HS-33). https://doi.org/10.4000/corela.11759
+
 - Vitali-Rosati, M. (2021). Pour une pensée préhumaine. *Sens public*, (SP1596). http://sens-public.org/articles/1598/
-
-- Cardon, Dominique ; Casilli, Antonio A. (2015) *Qu’est-ce que le digital labor ?* Paris : INA Editions.
-
-- Carré Dominique, Panico, Robert (2010) « Le contrôle social à l’heure des technologies de mobilité et
-de connectivité : du fichage ciblé des individus au traçage continu des agissements », *Colloque Creis-Terminal*.
-
-- Casilli, Antonio A. (2010) *Les liaisons numériques : vers une nouvelle sociabilité ?* Paris : Seuil.
-
-- Castoriadis, Cornelius (1975). *L’institution imaginaire de la société*. Paris : Seuil.
-
-- Ertzscheid, Olivier (2013), *Qu’est-ce que l’identité numérique ?* Marseille : OpenEdition Press.
-
-- Flichy, Patrice (2001) *L’imaginaire d’internet*. Paris : La Découverte.
-
-- Galinon-Mélénec, Béatrice ; Liénard, Fabien ; Zlitni, Sami (2015) *L’homme-trace : inscriptions corporelles et techniques*. Paris : CNRS Editions.
-
-- Goody, Jack (1979) *La raison graphique : la domestication de la pensée sauvage*. Paris : Minuit.
-
-- Jeanneret, Yves (2019), *La fabrique de la trace*. Paris : ISTE Editions
-
-- Lakoff et Johnson (1980 [1986]) *Les métaphores dans la vie quotidienne*. Paris : Minuit
-
-- Mauss, Marcel (2007) *Essai sur le don : forme et raison de l'échange dans les sociétés archaïques don contre-don*. Paris : PUF.
-
-- Marx, Karl (1968). *Le Capital. Livre I*. Paris : Gallimard
