@@ -1,0 +1,52 @@
+project:
+  type: website
+
+website:
+  title: "Identités numériques"      
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Introduction"
+        contents:
+          - index.qmd
+          - bibliographie.qmd
+      - section: "Séances de cours"
+        contents:
+          - 180123.qmd
+          - 250123.qmd
+          - 010223.qmd
+          - 080223.qmd
+          - 150223.qmd
+          - 220223.qmd
+          - 080323.qmd
+          - 150323.qmd
+          - 220323.qmd
+          - 290323.qmd
+          - 050423.qmd
+          - 120423.qmd
+          - 190423.qmd
+      - section: "Outils"
+        contents:
+          - gephi.qmd
+          - git.qmd
+          - hypothesis.qmd
+          - isidore.qmd
+          - omeka.qmd
+          - opentheso.qmd
+          - stylo.qmd
+          - terminal.qmd
+          - voyant-tools.qmd
+          - zotero.qmd
+  page-footer: 
+    left : "© 2023 WTFPL, Roch Delannay"
+    right : "Ce site a été réalisé avec [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

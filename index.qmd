@@ -1,0 +1,99 @@
+---
+title: "Plan de cours"
+---
+
+## Identités numériques
+
+Le cours "Identités numériques" est dispensé à l'Université Paris Nanterre au premier semestre 2023.
+
+### Informations pratiques
+
+Cours en présentiel le mercredi de 10h30 à 12h30 dans la salle XXXX.  
+
+Roch Delannay - roch.delannay@gmail.com
+
+::: {.callout-note}
+
+Lorsque vous souhaitez m'envoyer un courriel, merci d'indiquer la mention "\[Identités numériques\]" entre crochets au début de chaque objet attaché au message. 
+
+Exemple d'objet de courriel : \[Identités numériques\] Questions relatives au cours du 18 janvier 2023.
+
+:::
+
+### Note importante
+
+Ce cours est programmé en présentiel à partir du mercredi 18 janvier 2023, les étudiant·e·s doivent donc être présent·e·s à toutes les séances tant que les conditions le permettent. Ce plan de cours est susceptible d’évoluer, les étudiant·e·s seront prévenu·e·s au fur et à mesure.
+
+### Présence et participation 
+
+Si votre présence est fortement recommandée à chaque séance, nous savons désormais qu’il est difficile de prévoir l’imprévisible. La présence n’est pas évaluée mais je note qui est présent en classe. En suivant ce cours vous vous engagez toutefois à venir autant que possible à chaque séance et à suivre les recommandations suivantes dans la mesure du possible et de votre situation :
+
+- préparation : lectures demandées et relecture du cours ;
+- concentration : éviter les distractions pendant les séances ;
+- être actif·ve : écouter le cours, participer aux manipulations, poser des questions ;
+- écouter : lorsque d’autres étudiant·e·s prennent la parole, écoutez-les ;
+- créer des connexions : synthétiser et mettre en rapport les différents contenus présentés.
+
+::: {.callout-note}
+
+Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce [lien](https://demo.hedgedoc.org/1WdF94ubQcOV1_EoR1eT9Q#).
+
+:::
+
+## Objectifs
+
+Le cours est fondé sur la question suivante : comment l’identité est-elle reformulée par les formats
+standardisés des sites Internet ?
+Il analyse l’articulation entre des expressions individuelles et les logiques industrielles qui les
+encadrent. Un focus particulier sera fait sur les réseaux socio-numériques (RSN) qui mettent bien en
+exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret
+2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi
+produites.
+
+### Organisation des séances
+
+Les séances alterneront des "cours magistraux", des "démonstrations" ainsi que des "ateliers" autour des notions abordées. 
+
+Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
+
+- 18 janvier 2023 : Introduction au cours "Identités numériques"
+- 25 janvier 2023 : Outil : Terminal
+- 01 février 2023 : La notion de trace
+- 08 février 2023 : Outil : Stylo
+- 15 février 2023 : L'écriture numérique
+- 22 février 2023 : Outil : Zotero
+- 01 mars 2023 : Semaine de lecture
+- 08 mars 2023 : Écriture et territoire profilaire
+- 15 mars 2023 : Outil : Git
+- 22 mars 2023 : Le Capitalisme de surveillance
+- 29 mars 2023 : Outil : Gephi
+- 05 avril 2023 : La Bienveillance des machines
+- 12 avril 2023 : Semaine de lecture (Présentation des autoportraits)
+- 19 avril 2023 : Présentation des autoportraits
+
+### Organisation des rôles
+
+Plusieurs "rôles" seront distribués aux étudiant·e·s lors de chacune des séances : 
+
+- Secrétaire (x2) ;
+- Rapporteur (x1) ;
+
+Le rôle de Secrétaire a la responsabilité des notes collaboratives, de leur bon fonctionnement et de leur lisibilité.  
+Le rôle de Rapporteur a la responsabilité du bon déroulement des ateliers, ainsi que de rapporter à l'oral la conclusion des réflexions collectives menées pendant ces ateliers.
+
+::: {.callout-note}
+
+Les secrétaires sont chargé·e·s de noter les noms de chaque étudiant·e ayant tenu un rôle. Il n'est pas possible pour une même personne d'endosser deux fois le même rôle. 
+Nous réservons la possibilité d'ajouter ou de supprimer des rôles en fonction des besoins.
+
+:::
+
+### Évaluations
+
+Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
+
+- Participation à l'élaboration d'une réflexion collective : 30% ;
+- Participation à la prise de notes collaboratives : 20% ;
+- Réalisation d'un autoportrait en binôme (autoportrait + courte présentation orale) : 50%.
+
+Chaque binôme devra réaliser un autoportrait avec les outils présentés en cours (ainsi que ceux disponibles dans la liste complémentaire sur le site web) et devra le présenter en 3 minutes à l'oral. Les autoportraits seront déposés une semaine avant la date de présentation dans un espace dédié afin que chacun puisse les découvrir. De plus, il est demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (1500 mots).
