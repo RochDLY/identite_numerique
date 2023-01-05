@@ -4,21 +4,21 @@
     "href": "180123.html",
     "title": "18 janvier 2023",
     "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+    "text": "Bienvenue à toutes et à tous à notre premier cours sur les Identités numériques.\n\n\n\n\n\n\nNote\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
     "objectID": "180123.html#déroulé-de-la-séance",
     "href": "180123.html#déroulé-de-la-séance",
     "title": "18 janvier 2023",
     "section": "Déroulé de la séance",
-    "text": "Déroulé de la séance\n\nPrésentation du site web et des ressources\nPrésentation du plan du cours"
+    "text": "Déroulé de la séance\n\nPrésentation du site web et des ressources ;\nPrésentation du plan du cours ;\nParamétrer les outils nécessaires au cours ;\nIntroduction à la notion d’identité numérique ;\nPrésentation de la séance du 25 janvier ;\nQuestions."
   },
   {
     "objectID": "180123.html#atelier",
     "href": "180123.html#atelier",
     "title": "18 janvier 2023",
     "section": "Atelier",
-    "text": "Atelier"
+    "text": "Atelier\n\nPrésentation et paramétrage des outils :\n\nHedgedoc\nGitHub\n\n\n\nExercice\n\nRéaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;\nSe présenter en 3 lignes dans le pad du 18 janvier 2023.\n\n\n\n\n\n\n\nDanger\n\n\n\nAttention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !"
   },
   {
     "objectID": "180123.html#définitions",
@@ -28,11 +28,18 @@
     "text": "Définitions"
   },
   {
-    "objectID": "180123.html#lecture-de-la-semaine",
-    "href": "180123.html#lecture-de-la-semaine",
+    "objectID": "180123.html#lectures-de-la-semaine",
+    "href": "180123.html#lectures-de-la-semaine",
     "title": "18 janvier 2023",
-    "section": "Lecture de la semaine",
-    "text": "Lecture de la semaine"
+    "section": "Lectures de la semaine",
+    "text": "Lectures de la semaine\n\nLecture obligatoire\n\nErtzscheid, O. (2013). “Les logiques identitaires”. Dans Qu’est-ce que l’identité numérique ?. OpenEdition Press. https://books.openedition.org/oep/405\n\n\n\nLecture optionnelle\n\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675"
+  },
+  {
+    "objectID": "180123.html#pour-la-semaine-prochaine",
+    "href": "180123.html#pour-la-semaine-prochaine",
+    "title": "18 janvier 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine\n\nPrendre en main l’écriture en Markdown ;\nDéterminer deux Secrétaires et un·e Rapporteur·se."
   },
   {
     "objectID": "080323.html",
@@ -74,7 +81,7 @@
     "href": "bibliographie.html",
     "title": "Bibliographie",
     "section": "",
-    "text": "Delannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nIngold, T. (2013). Une brève histoire des lignes. Zones sensibles.\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin.\nCassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil."
+    "text": "Cassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil.\nDelannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nIngold, T. (2013). Une brève histoire des lignes. Zones sensibles.\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin."
   },
   {
     "objectID": "bibliographie.html#références-complémentaires",
