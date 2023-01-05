@@ -52,7 +52,7 @@ produites.
 
 ### Organisation des séances
 
-Les séances alterneront des "cours magistraux", des "démonstrations" ainsi que des "ateliers" autour des notions abordées. 
+Les séances alterneront des "cours magistraux", des "démonstrations" ainsi que des "ateliers" autour de notions théoriques mais aussi techniques qui seront abordées. 
 
 Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
 
