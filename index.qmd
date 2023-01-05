@@ -56,20 +56,20 @@ Les séances alterneront des "cours magistraux", des "démonstrations" ainsi que
 
 Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
 
-- 18 janvier 2023 : Introduction au cours "Identités numériques"
-- 25 janvier 2023 : Outil : Terminal
-- 01 février 2023 : La notion de trace
-- 08 février 2023 : Outil : Stylo
-- 15 février 2023 : L'écriture numérique
-- 22 février 2023 : Outil : Zotero
-- 01 mars 2023 : Semaine de lecture
-- 08 mars 2023 : Écriture et territoire profilaire
-- 15 mars 2023 : Outil : Git
-- 22 mars 2023 : Le Capitalisme de surveillance
-- 29 mars 2023 : Outil : Gephi
-- 05 avril 2023 : La Bienveillance des machines
-- 12 avril 2023 : Semaine de lecture (Présentation des autoportraits)
-- 19 avril 2023 : Présentation des autoportraits
+- [18 janvier 2023 - Introduction au cours "Identités numériques"](180123.qmd)
+- [25 janvier 2023 - Outil : Terminal](250123.qmd)
+- [01 février 2023 - La notion de trace](010223.qmd)
+- [08 février 2023 - Outil : Stylo](080223.qmd)
+- [15 février 2023 - L'écriture numérique](150223.qmd)
+- [22 février 2023 - Outil : Zotero](220223.qmd)
+- 01 mars 2023 - Semaine de lecture
+- [08 mars 2023 - Écriture et territoire profilaire](080323.qmd)
+- [15 mars 2023 - Outil : Git](150323.qmd)
+- [22 mars 2023 - Le Capitalisme de surveillance](220323.qmd)
+- [29 mars 2023 - Outil : Gephi](290323.qmd)
+- [05 avril 2023 - La Bienveillance des machines](050423.qmd)
+- [12 avril 2023 - Semaine de lecture (Présentation des autoportraits)](120423.qmd)
+- [19 avril 2023 - Présentation des autoportraits](190423.qmd)
 
 ### Organisation des rôles
 

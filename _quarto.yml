@@ -28,6 +28,7 @@ website:
           - 190423.qmd
       - section: "Outils"
         contents:
+          - escriptorium.qmd
           - gephi.qmd
           - git.qmd
           - hypothesis.qmd

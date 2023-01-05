@@ -4,6 +4,8 @@ title: "Bibliographie"
 
 ## Références
 
+- Cassou-Noguès, P. (2022). "Mon Oncle", Dans *La Bienveillance des machines. Comment le numérique nous transforme à notre insu*. Seuil.
+
 - Delannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. *Sens public*. http://sens-public.org/articles/1683/ 
 
 - Gomez-Mejia, G. (2019). *Les fabriques de soi ? Identité et industrie sur le web*. MKF.
@@ -21,8 +23,6 @@ title: "Bibliographie"
 - Saemmer, A. (2021). Bienvenue dans la Colonie facebook. *Hybrid. Revue des arts et médiations humaines*, (7). https://doi.org/10.4000/hybrid.675
 
 - Souchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). *Le numérique comme écriture : théorique et méthodes d’analyse*. Armand Colin.
-
-- Cassou-Noguès, P. (2022). "Mon Oncle", Dans *La Bienveillance des machines. Comment le numérique nous transforme à notre insu*. Seuil.
 
 ## Références complémentaires 
 
@@ -74,3 +74,5 @@ de connectivité : du fichage ciblé des individus au traçage continu des agiss
 - Vitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? *Corela. Cognition, représentation, langage*, (HS-33). https://doi.org/10.4000/corela.11759
 
 - Vitali-Rosati, M. (2021). Pour une pensée préhumaine. *Sens public*, (SP1596). http://sens-public.org/articles/1598/
+
+- Zuboff, S., Formentelli, B. et Homassel, A.-S. (2020). *L’âge du capitalisme de surveillance : Le combat pour un avenir humain face aux nouvelles frontières du pouvoir*. Zulma.

@@ -1,3 +1,59 @@
 ---
 title: "18 janvier 2023"
 ---
+
+## Introduction au cours “Identités numériques”
+
+Bienvenue à toutes et à tous à notre premier cours sur les Identités numériques.
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/vT4VGOsATByXrgmU8gkaMw) pour accéder au pad collaboratif.
+
+:::
+
+
+## Déroulé de la séance
+
+- Présentation du site web et des ressources ;
+- Présentation du plan du cours ;
+- Paramétrer les outils nécessaires au cours ;
+- Introduction à la notion d'identité numérique ;
+- Présentation de la séance du 25 janvier ;
+- Questions.
+
+
+## Atelier
+
+- Présentation et paramétrage des outils :
+    - Hedgedoc
+    - [GitHub](https://github.com/)
+
+### Exercice
+
+1. Réaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;
+2. Se présenter en 3 lignes dans le pad du 18 janvier 2023.
+
+::: {.callout-caution}
+
+Attention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !
+
+:::
+
+## Définitions
+
+
+## Lectures de la semaine
+
+### Lecture obligatoire
+
+- Ertzscheid, O. (2013). "Les logiques identitaires". Dans *Qu’est-ce que l’identité numérique ?*. OpenEdition Press. https://books.openedition.org/oep/405
+
+### Lecture optionnelle
+
+- Saemmer, A. (2021). Bienvenue dans la Colonie facebook. *Hybrid. Revue des arts et médiations humaines*, (7). https://doi.org/10.4000/hybrid.675
+
+## Pour la semaine prochaine
+
+- Prendre en main l'écriture en Markdown ;
+- Déterminer deux Secrétaires et un·e Rapporteur·se.
