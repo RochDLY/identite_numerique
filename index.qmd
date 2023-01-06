@@ -43,12 +43,10 @@ Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pend
 ## Objectifs
 
 Le cours est fondé sur la question suivante : comment l’identité est-elle reformulée par les formats
-standardisés des sites Internet ?
-Il analyse l’articulation entre des expressions individuelles et les logiques industrielles qui les
-encadrent. Un focus particulier sera fait sur les réseaux socio-numériques (RSN) qui mettent bien en
-exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret
-2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi
-produites.
+standardisés des sites Web ?
+Nous y analyserons l’articulation entre des expressions individuelles et les logiques industrielles qui les
+encadrent. Un focus particulier sera fait sur les écritures numériques (notamment sur les réseaux socio-numériques (RSN)) qui mettent en exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret 2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi produites.
+
 
 ### Organisation des séances
 

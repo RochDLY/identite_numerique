@@ -17,11 +17,16 @@ Bienvenue à toutes et à tous à notre premier cours sur les Identités numéri
 
 - Présentation du site web et des ressources ;
 - Présentation du plan du cours ;
+- Exercice 1 ;
 - Paramétrer les outils nécessaires au cours ;
+- Exercice 2 ;
 - Introduction à la notion d'identité numérique ;
 - Présentation de la séance du 25 janvier ;
 - Questions.
 
+## Exercice 1
+
+1. Définir en une phrase l'identité numérique.
 
 ## Atelier
 
@@ -29,7 +34,7 @@ Bienvenue à toutes et à tous à notre premier cours sur les Identités numéri
     - Hedgedoc
     - [GitHub](https://github.com/)
 
-### Exercice
+### Exercice 2
 
 1. Réaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;
 2. Se présenter en 3 lignes dans le pad du 18 janvier 2023.
@@ -41,6 +46,12 @@ Attention à ne pas effacer les informations ajoutées par les autres étudiant�
 :::
 
 ## Définitions
+
+L'identité numérique peut tout d'abord être définie comme suit : 
+
+> L’identité numérique est constituée de la somme des traces numériques se rapportant à un individu ou à une collectivité : des traces « profilaires » correspondant à ce que je dis de moi (qui suis-je ?) ; des traces « navigationnelles » qui renseignent sur les sites que je fréquente et sur lesquels je commente ou j’achète (comment je me comporte) ; enfin des traces inscriptibles et déclaratives – ce que je publie sur mon blog par exemple – qui reflètent directement mes idées et mes opinions (ce que je pense).  
+> De manière plus circonstanciée, l’identité numérique peut être définie comme la collection des traces (écrits, contenus audios ou vidéos, messages sur des forums, identifiants de connexion, etc.) que nous laissons derrière nous, consciemment ou inconsciemment, au fil de nos navigations sur le réseau et le reflet de cet ensemble de traces, tel qu’il apparaît « remixé » par les moteurs de recherche.  
+> - Olivier Ertzscheid, *Qu'est-ce que l'identité numérique ?*
 
 
 ## Lectures de la semaine
