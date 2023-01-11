@@ -47,12 +47,15 @@ Attention à ne pas effacer les informations ajoutées par les autres étudiant�
 
 ## Définitions
 
-L'identité numérique peut tout d'abord être définie comme suit : 
+::: {.callout-tip collapse="true"}
+
+### Identité numérique
 
 > L’identité numérique est constituée de la somme des traces numériques se rapportant à un individu ou à une collectivité : des traces « profilaires » correspondant à ce que je dis de moi (qui suis-je ?) ; des traces « navigationnelles » qui renseignent sur les sites que je fréquente et sur lesquels je commente ou j’achète (comment je me comporte) ; enfin des traces inscriptibles et déclaratives – ce que je publie sur mon blog par exemple – qui reflètent directement mes idées et mes opinions (ce que je pense).  
 > De manière plus circonstanciée, l’identité numérique peut être définie comme la collection des traces (écrits, contenus audios ou vidéos, messages sur des forums, identifiants de connexion, etc.) que nous laissons derrière nous, consciemment ou inconsciemment, au fil de nos navigations sur le réseau et le reflet de cet ensemble de traces, tel qu’il apparaît « remixé » par les moteurs de recherche.  
-> - Olivier Ertzscheid, *Qu'est-ce que l'identité numérique ?*
+- Olivier Ertzscheid, *Qu'est-ce que l'identité numérique ?*
 
+:::
 
 ## Lectures de la semaine
 
