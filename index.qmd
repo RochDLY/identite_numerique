@@ -74,16 +74,34 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 
 Plusieurs "rôles" seront distribués aux étudiant·e·s lors de chacune des séances : 
 
-- Secrétaire (x2) ;
 - Rapporteur (x1) ;
+- Secrétaire (x2) ;
+- Surveillant (x1).
 
-Le rôle de Secrétaire a la responsabilité des notes collaboratives, de leur bon fonctionnement et de leur lisibilité.  
+::: {.callout-tip collapse="true"}
+
+#### Rapporteur
+
 Le rôle de Rapporteur a la responsabilité du bon déroulement des ateliers, ainsi que de rapporter à l'oral la conclusion des réflexions collectives menées pendant ces ateliers.
 
-::: {.callout-note}
+:::
+
+::: {.callout-tip collapse="true"}
+
+#### Secrétaire
+
+Le rôle de Secrétaire a la responsabilité des notes collaboratives, de leur bon fonctionnement et de leur lisibilité.
 
 Les secrétaires sont chargé·e·s de noter les noms de chaque étudiant·e ayant tenu un rôle. Il n'est pas possible pour une même personne d'endosser deux fois le même rôle. 
 Nous réservons la possibilité d'ajouter ou de supprimer des rôles en fonction des besoins.
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+#### Surveillant
+
+Le rôle du Surveillant a la responsabilité du bon déroulement de chaque cours. Il partage cette responsabilité avec le Rapporteur lors des ateliers.
 
 :::
 

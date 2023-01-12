@@ -24,7 +24,7 @@ website:
           - 220323.qmd
           - 290323.qmd
           - 050423.qmd
-          - 120423.qmd
+#          - 120423.qmd
           - 190423.qmd
       - section: "Outils"
         contents:

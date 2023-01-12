@@ -70,4 +70,5 @@ Attention à ne pas effacer les informations ajoutées par les autres étudiant�
 ## Pour la semaine prochaine
 
 - Prendre en main l'écriture en Markdown ;
-- Déterminer deux Secrétaires et un·e Rapporteur·se.
+- Déterminer deux Secrétaires et un·e Rapporteur·se et un·e Surveillant·e.
+- Suivre ce [tutoriel](https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/) pour installer *bash* pour ceux qui travaillent avec le système d'exploitation Windows.
