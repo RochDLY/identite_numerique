@@ -7,10 +7,8 @@ website:
     style: "floating"
     search: true
     contents:
-      - section: "Introduction"
-        contents:
-          - index.qmd
-          - bibliographie.qmd
+      - index.qmd
+      - bibliographie.qmd
       - section: "Séances de cours"
         contents:
           - 180123.qmd

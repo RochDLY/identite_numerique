@@ -18,8 +18,6 @@ Bienvenue à toutes et à tous à notre premier cours sur les Identités numéri
 - Présentation du site web et des ressources ;
 - Présentation du plan du cours ;
 - Exercice 1 ;
-- Paramétrer les outils nécessaires au cours ;
-- Exercice 2 ;
 - Introduction à la notion d'identité numérique ;
 - Présentation de la séance du 25 janvier ;
 - Questions.
@@ -27,23 +25,6 @@ Bienvenue à toutes et à tous à notre premier cours sur les Identités numéri
 ## Exercice 1
 
 1. Définir en une phrase l'identité numérique.
-
-## Atelier
-
-- Présentation et paramétrage des outils :
-    - Hedgedoc
-    - [GitHub](https://github.com/)
-
-### Exercice 2
-
-1. Réaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;
-2. Se présenter en 3 lignes dans le pad du 18 janvier 2023.
-
-::: {.callout-caution}
-
-Attention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !
-
-:::
 
 ## Définitions
 
@@ -65,10 +46,19 @@ Attention à ne pas effacer les informations ajoutées par les autres étudiant�
 
 ### Lecture optionnelle
 
-- Saemmer, A. (2021). Bienvenue dans la Colonie facebook. *Hybrid. Revue des arts et médiations humaines*, (7). https://doi.org/10.4000/hybrid.675
+- Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique--9782724623659-p-176.htm
 
 ## Pour la semaine prochaine
 
-- Prendre en main l'écriture en Markdown ;
-- Déterminer deux Secrétaires et un·e Rapporteur·se et un·e Surveillant·e.
-- Suivre ce [tutoriel](https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/) pour installer *bash* pour ceux qui travaillent avec le système d'exploitation Windows.
+- Désigner deux Secrétaires pour les notes collaboratives.
+
+Exercice : 
+
+1. Réaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;
+2. Se présenter en 3 lignes dans le pad du 18 janvier 2023.
+
+::: {.callout-caution}
+
+Attention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !
+
+:::

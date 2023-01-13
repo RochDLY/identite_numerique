@@ -51,71 +51,34 @@ encadrent. Un focus particulier sera fait sur les écritures numériques (notamm
 
 ### Organisation des séances
 
-Les séances alterneront des "cours magistraux", des "démonstrations" ainsi que des "ateliers" autour de notions théoriques mais aussi techniques qui seront abordées. 
+Les séances alterneront des "cours magistraux" ainsi que des "démonstrations techniques" autour de notions théoriques qui seront abordées. 
 
 Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
 
 - [18 janvier 2023 - Introduction au cours "Identités numériques"](180123.qmd)
-- [25 janvier 2023 - Outil : Terminal](250123.qmd)
+- [25 janvier 2023 - Définir l'identité numérique](250123.qmd)
 - [01 février 2023 - La notion de trace](010223.qmd)
-- [08 février 2023 - Outil : Stylo](080223.qmd)
+- [08 février 2023 - La trace numérique](080223.qmd)
 - [15 février 2023 - L'écriture numérique](150223.qmd)
-- [22 février 2023 - Outil : Zotero](220223.qmd)
+- [22 février 2023 - L'éditorialisation](220223.qmd)
 - 01 mars 2023 - Semaine de vacances
-- [08 mars 2023 - Écriture et territoire profilaire](080323.qmd)
-- [15 mars 2023 - Outil : Git](150323.qmd)
-- [22 mars 2023 - Le Capitalisme de surveillance](220323.qmd)
-- [29 mars 2023 - Outil : Gephi](290323.qmd)
-- [05 avril 2023 - La Bienveillance des machines](050423.qmd)
+- [08 mars 2023 - Le profil : un nouveau territoire imaginaire ?](080323.qmd)
+- [15 mars 2023 - Le capitalisme de surveillance](150323.qmd)
+- [22 mars 2023 - Pour une réappropriation collective des traces](220323.qmd)
+- [29 mars 2023 - Exploitation des données à travers la théorie des graphes](290323.qmd)
+- [05 avril 2023 - La bienveillance des machines](050423.qmd)
 - 12 avril 2023 - Semaine de vacances
 - [19 avril 2023 - Présentation des autoportraits](190423.qmd)
 
-### Organisation des rôles
-
-Plusieurs "rôles" seront distribués aux étudiant·e·s lors de chacune des séances : 
-
-- Rapporteur (x1) ;
-- Secrétaire (x2) ;
-- Surveillant (x1).
-
-::: {.callout-tip collapse="true"}
-
-#### Rapporteur
-
-Le rôle de Rapporteur a la responsabilité du bon déroulement des ateliers, ainsi que de rapporter à l'oral la conclusion des réflexions collectives menées pendant ces ateliers.
-
-:::
-
-::: {.callout-tip collapse="true"}
-
-#### Secrétaire
-
-Le rôle de Secrétaire a la responsabilité des notes collaboratives, de leur bon fonctionnement et de leur lisibilité.
-
-Les secrétaires sont chargé·e·s de noter les noms de chaque étudiant·e ayant tenu un rôle. Il n'est pas possible pour une même personne d'endosser deux fois le même rôle. 
-Nous réservons la possibilité d'ajouter ou de supprimer des rôles en fonction des besoins.
-
-:::
-
-::: {.callout-tip collapse="true"}
-
-#### Surveillant
-
-Le rôle du Surveillant a la responsabilité du bon déroulement de chaque cours. Il partage cette responsabilité avec le Rapporteur lors des ateliers.
-
-:::
-
 ### Modalités d'évaluations
 
-Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
+Deux modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
 
-- Participation à l'élaboration d'une réflexion collective : 30% ;
-- Participation à la prise de notes collaboratives : 20% ;
-- Réalisation d'un autoportrait en binôme (autoportrait + courte présentation orale) : 50%.
+- Participation à la prise de notes collaboratives ;
+- Réalisation d'un autoportrait en binôme (autoportrait + courte présentation orale) 50%.
 
-1. Participation active en classe et respect des rôles susmentionnés.
 
-2. Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
+1. Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
 
 ::: {.callout-important collapse="true"}
 
@@ -123,4 +86,12 @@ Afin d'illustrer au mieux les problématiques liées aux identités numériques,
 
 :::
 
-3. Chaque binôme devra réaliser un autoportrait avec les outils présentés en cours (ainsi que ceux disponibles dans la liste complémentaire sur le site web) et devra le présenter en 3 minutes à l'oral. Les autoportraits seront déposés une semaine avant la date de présentation dans un espace dédié afin que chacun puisse les découvrir. De plus, il est demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (1500 mots).
+::: {.callout-tip collapse="true"}
+
+#### Secrétaires de séance
+
+Deux secrétaires par séance devront veiller au bon fonctionnement des notes collaboratives.
+
+:::
+
+2. Chaque binôme devra réaliser un autoportrait avec les outils présentés en cours (ainsi que ceux disponibles dans la liste complémentaire sur le site web) et devra le présenter en 3 minutes à l'oral. Les autoportraits seront déposés une semaine avant la date de présentation dans un espace dédié afin que chacun puisse les découvrir. De plus, il est demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (1500 mots).

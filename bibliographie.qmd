@@ -4,15 +4,17 @@ title: "Bibliographie"
 
 ## Références
 
+- Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique--9782724623659-p-176.htm
+
 - Cassou-Noguès, P. (2022). "Mon Oncle", Dans *La Bienveillance des machines. Comment le numérique nous transforme à notre insu*. Seuil.
 
-- Delannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. *Sens public*. http://sens-public.org/articles/1683/ 
+- Delannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. *Sens public*. http://sens-public.org/articles/1683/
 
-- Gomez-Mejia, G. (2019). *Les fabriques de soi ? Identité et industrie sur le web*. MKF.
+- Ertzscheid, O. (2013). *Qu’est-ce que l’identité numérique ?* OpenEdition Press.
 
 - Galinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720
 
-- Ingold, T. (2013). *Une brève histoire des lignes*. Zones sensibles.
+- Gomez-Mejia, G. (2019). *Les fabriques de soi ? Identité et industrie sur le web*. MKF.
 
 - Merzeau, L. (2013b). L’intelligence des traces. *Intellectica. Revue de l’Association pour la Recherche Cognitive*, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088
 
@@ -23,6 +25,8 @@ title: "Bibliographie"
 - Saemmer, A. (2021). Bienvenue dans la Colonie facebook. *Hybrid. Revue des arts et médiations humaines*, (7). https://doi.org/10.4000/hybrid.675
 
 - Souchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). *Le numérique comme écriture : théorique et méthodes d’analyse*. Armand Colin.
+
+- Vitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? *Corela. Cognition, représentation, langage*, (HS-33). https://doi.org/10.4000/corela.11759
 
 ## Références complémentaires 
 
@@ -35,11 +39,7 @@ de connectivité : du fichage ciblé des individus au traçage continu des agiss
 
 - Castoriadis, C. (1975). *L’institution imaginaire de la société*. Seuil.
 
-- Citton, Y. (2019). L’intrastructure d’internet entre immanence et verticalité. Dans *Le Stack. Logiciels, plateformes, souveraineté*. https://hal.archives-ouvertes.fr/hal-02912260
-
 - Crozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. *I2D - Information, donnees documents*, 53(2), 62‑64.
-
-- Ertzscheid, O. (2013). *Qu’est-ce que l’identité numérique ?* OpenEdition Press.
 
 - Flichy, P. (2001). *L’imaginaire d’internet*. La Découverte.
 
@@ -48,6 +48,8 @@ de connectivité : du fichage ciblé des individus au traçage continu des agiss
 - Goody, J. (1979). *La raison graphique : la domestication de la pensée sauvage*. Minuit.
 
 - Hayles, N. K. (2015). *Parole, écriture, code*. Les Presses du réel.
+
+- Ingold, T. (2013). *Une brève histoire des lignes*. Zones sensibles.
 
 - Jeanneret, Y. (2019). *La fabrique de la trace*. ISTE Editions.
 
@@ -65,13 +67,7 @@ de connectivité : du fichage ciblé des individus au traçage continu des agiss
 
 - Merzeau, L. (2013). Éditorialisation collaborative d’un événement. *Communication et organisation*, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158
 
-- Mounier, P. (2018). IBM ou International Busa Machines ? De l’informatique aux humanités. Dans *Les humanités numériques : Une histoire critique* (p. 21‑43). Éditions de la Maison des sciences de l’homme. http://books.openedition.org/editionsmsh/12033
-
-- Shannon, C. E. (1948). A mathematical theory of communication. *The Bell System Technical Journal*, 27(3), 379‑423. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
-
 - Vitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? *Sens public*. https://hal.archives-ouvertes.fr/hal-01599208
-
-- Vitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? *Corela. Cognition, représentation, langage*, (HS-33). https://doi.org/10.4000/corela.11759
 
 - Vitali-Rosati, M. (2021). Pour une pensée préhumaine. *Sens public*, (SP1596). http://sens-public.org/articles/1598/
 
