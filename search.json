@@ -11,7 +11,7 @@
     "href": "180123.html#déroulé-de-la-séance",
     "title": "18 janvier 2023",
     "section": "Déroulé de la séance",
-    "text": "Déroulé de la séance\n\nPrésentation du site web et des ressources ;\nPrésentation du plan du cours ;\nExercice 1 ;\nParamétrer les outils nécessaires au cours ;\nExercice 2 ;\nIntroduction à la notion d’identité numérique ;\nPrésentation de la séance du 25 janvier ;\nQuestions."
+    "text": "Déroulé de la séance\n\nPrésentation du site web et des ressources ;\nPrésentation du plan du cours ;\nExercice 1 ;\nIntroduction à la notion d’identité numérique ;\nPrésentation de la séance du 25 janvier ;\nQuestions."
   },
   {
     "objectID": "180123.html#exercice-1",
@@ -19,13 +19,6 @@
     "title": "18 janvier 2023",
     "section": "Exercice 1",
     "text": "Exercice 1\n\nDéfinir en une phrase l’identité numérique."
-  },
-  {
-    "objectID": "180123.html#atelier",
-    "href": "180123.html#atelier",
-    "title": "18 janvier 2023",
-    "section": "Atelier",
-    "text": "Atelier\n\nPrésentation et paramétrage des outils :\n\nHedgedoc\nGitHub\n\n\n\nExercice 2\n\nRéaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;\nSe présenter en 3 lignes dans le pad du 18 janvier 2023.\n\n\n\n\n\n\n\nDanger\n\n\n\nAttention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !"
   },
   {
     "objectID": "180123.html#définitions",
@@ -39,14 +32,14 @@
     "href": "180123.html#lectures-de-la-semaine",
     "title": "18 janvier 2023",
     "section": "Lectures de la semaine",
-    "text": "Lectures de la semaine\n\nLecture obligatoire\n\nErtzscheid, O. (2013). “Les logiques identitaires”. Dans Qu’est-ce que l’identité numérique ?. OpenEdition Press. https://books.openedition.org/oep/405\n\n\n\nLecture optionnelle\n\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675"
+    "text": "Lectures de la semaine\n\nLecture obligatoire\n\nErtzscheid, O. (2013). “Les logiques identitaires”. Dans Qu’est-ce que l’identité numérique ?. OpenEdition Press. https://books.openedition.org/oep/405\n\n\n\nLecture optionnelle\n\nCardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm"
   },
   {
     "objectID": "180123.html#pour-la-semaine-prochaine",
     "href": "180123.html#pour-la-semaine-prochaine",
     "title": "18 janvier 2023",
     "section": "Pour la semaine prochaine",
-    "text": "Pour la semaine prochaine\n\nPrendre en main l’écriture en Markdown ;\nDéterminer deux Secrétaires et un·e Rapporteur·se et un·e Surveillant·e.\nSuivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
+    "text": "Pour la semaine prochaine\n\nDésigner deux Secrétaires pour les notes collaboratives.\n\nExercice :\n\nRéaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;\nSe présenter en 3 lignes dans le pad du 18 janvier 2023.\n\n\n\n\n\n\n\nDanger\n\n\n\nAttention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !"
   },
   {
     "objectID": "080323.html",
@@ -88,7 +81,7 @@
     "href": "bibliographie.html",
     "title": "Bibliographie",
     "section": "",
-    "text": "Cassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil.\nDelannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin.\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
+    "text": "Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm\nCassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil.\nDelannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin.\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
   },
   {
     "objectID": "bibliographie.html#références-complémentaires",
@@ -390,6 +383,13 @@
     "title": "29 mars 2023",
     "section": "Lecture de la semaine",
     "text": "Lecture de la semaine"
+  },
+  {
+    "objectID": "terminal.html",
+    "href": "terminal.html",
+    "title": "Le Terminal",
+    "section": "",
+    "text": "Suivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
   },
   {
     "objectID": "080223.html",
