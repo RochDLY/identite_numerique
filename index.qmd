@@ -57,25 +57,26 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 
 - [18 janvier 2023 - Introduction au cours "Identités numériques"](180123.qmd)
 - [25 janvier 2023 - Définir l'identité numérique](250123.qmd)
-- [01 février 2023 - La notion de trace](010223.qmd)
-- [08 février 2023 - La trace numérique](080223.qmd)
+- [01 février 2023 - Des profils préfabriqués](010223.qmd)
+- [08 février 2023 - Des profils préfabriqués (2)](080223.qmd)
 - [15 février 2023 - L'écriture numérique](150223.qmd)
 - [22 février 2023 - L'éditorialisation](220223.qmd)
 - 01 mars 2023 - Semaine de vacances
-- [08 mars 2023 - Le profil : un nouveau territoire imaginaire ?](080323.qmd)
-- [15 mars 2023 - Le capitalisme de surveillance](150323.qmd)
-- [22 mars 2023 - Pour une réappropriation collective des traces](220323.qmd)
+- [08 mars 2023 - Traces & capitalisme de surveillance](080323.qmd)
+- [15 mars 2023 - Pour une réappropriation collective des traces](150323.qmd)
+- [22 mars 2023 - Le profil : un nouveau territoire imaginaire ?](220323.qmd)
 - [29 mars 2023 - Exploitation des données à travers la théorie des graphes](290323.qmd)
 - [05 avril 2023 - La bienveillance des machines](050423.qmd)
 - 12 avril 2023 - Semaine de vacances
-- [19 avril 2023 - Présentation des autoportraits](190423.qmd)
+- [19 avril 2023 - Devoir sur table](190423.qmd)
 
 ### Modalités d'évaluations
 
-Deux modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
+Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
 
 - Participation à la prise de notes collaboratives ;
-- Réalisation d'un autoportrait en binôme (autoportrait + courte présentation orale) 50%.
+- Réalisation d'un autoportrait en binôme (autoportrait et résumé critique du processus).
+- Un devoir sur table lors de la dernière séance.
 
 
 1. Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
@@ -94,4 +95,6 @@ Deux secrétaires par séance devront veiller au bon fonctionnement des notes co
 
 :::
 
-2. Chaque binôme devra réaliser un autoportrait avec les outils présentés en cours (ainsi que ceux disponibles dans la liste complémentaire sur le site web) et devra le présenter en 3 minutes à l'oral. Les autoportraits seront déposés une semaine avant la date de présentation dans un espace dédié afin que chacun puisse les découvrir. De plus, il est demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (1500 mots).
+2. Chaque binôme devra réaliser un autoportrait. Les autoportraits seront à déposer à une date définie ultérieurement. De plus, il est demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (3000 signes espaces compris).
+
+3. Devoir sur table.
