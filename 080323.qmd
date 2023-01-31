@@ -2,7 +2,6 @@
 title: "08 mars 2023"
 ---
 
-## Écriture et territoire profilaire
 
 ::: {.callout-note}
 
@@ -10,12 +9,3 @@ title: "08 mars 2023"
 
 :::
 
-## Déroulé de la séance
-
-## Atelier
-
-
-## Définitions
-
-
-## Lecture de la semaine

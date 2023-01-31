@@ -2,7 +2,7 @@
 title: "1er février 2023"
 ---
 
-## La notion de trace
+## Des "profils préfabriqués"
 
 ::: {.callout-note}
 
@@ -10,12 +10,36 @@ title: "1er février 2023"
 
 :::
 
-## Déroulé de la séance
-
 ## Atelier
 
+- prise de note
 
-## Définitions
+## Déroulé de la séance
 
+::: {.callout-note}
 
-## Lecture de la semaine
+## Plan du cours
+
+### Sur les réseaux socio-numériques, les profils sont des gabarits
+
+#### Les profils sont construits selon une logique de gabarit
+
+#### L'architexte et son pouvoir éditorial
+
+#### Les pouvoirs éditoriaux des architextes
+
+### Le pré-formatage des profils réduit l'individu à une série de rubriques
+
+#### La forme tableau
+
+#### L'exemple de Facebook
+
+### Conclusion
+
+:::
+
+## Pour la semaine prochaine 
+
+Lire : 
+
+- Monjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. *Sens public*. https://doi.org/10.7202/1043638ar
