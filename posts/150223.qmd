@@ -1,0 +1,22 @@
+---
+title: "15 février 2023"
+---
+
+## L'écriture numérique
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/9p6QQYVBSNO6Fgfq4FITWw#) pour accéder au pad collaboratif.
+
+:::
+
+## Plan de la séance
+
+## Démonstration
+
+Brève présentation de l'éditeur de texte sémantique [Stylo](https://stylo.huma-num.fr/).
+
+Pour plus d'informations, se référer à la [page dédiée](/tools/stylo.html) à cet outil sur ce site Web.
+
+
+

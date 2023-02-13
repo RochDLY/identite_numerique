@@ -37,7 +37,14 @@ Votre présence en cours est obligatoire (dans la limite de trois absences non j
 ::: {.callout-note}
 
 Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce [lien](https://demo.hedgedoc.org/1WdF94ubQcOV1_EoR1eT9Q#).
-Pour de plus amples informations, se référer à la section [évaluations](#modalités-dévaluations).
+
+Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
+
+::: {.callout-important collapse="true"}
+
+Afin d'illustrer au mieux les problématiques liées aux identités numériques, il est demandé aux étudiant·e·s de s'authentifier sur l'application Hedgedoc (par exemple via l'instance GitHub pour ne pas multiplier les identifiants).
+
+:::
 
 :::
 
@@ -74,27 +81,29 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 
 Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
 
-- Participation à la prise de notes collaboratives ;
 - Réalisation d'un autoportrait en binôme (autoportrait et résumé critique du processus).
 - Un devoir sur table lors de la dernière séance.
 
 
-1. Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
 
-::: {.callout-important collapse="true"}
 
-Afin d'illustrer au mieux les problématiques liées aux identités numériques, il est demandé aux étudiant·e·s de s'authentifier sur l'application Hedgedoc (par exemple via l'instance GitHub pour ne pas multiplier les identifiants).
+1. Chaque binôme devra réaliser un autoportrait. Les autoportraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **8 mars 2023**.
+
+2. Il est également demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (4000 signes espaces compris), à rendre pour le **29 mars 2023**. Ce texte doit être déposé sur la même plateforme que l'autoportrait.
+
+::: {.callout-important}
+
+### Trinômes
+
+Pour celles et ceux qui souhaitent former des trinômes : 
+
+- l'autoportrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre) ;
+- le résumé critique devra comprendre cette nouvelle dimension et passe de 4000 à 6000 signes espaces compris).
 
 :::
-
-::: {.callout-tip collapse="true"}
-
-#### Secrétaires de séance
-
-Deux secrétaires par séance devront veiller au bon fonctionnement des notes collaboratives.
-
-:::
-
-2. Chaque binôme devra réaliser un autoportrait. Les autoportraits seront à déposer à une date définie ultérieurement. De plus, il est demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (3000 signes espaces compris).
 
 3. Devoir sur table.
+
+## Informations complémentaires
+
+Pour ceux qui souhaitent suivre une formation gratuite, en ligne, sur les écritures numériques en sciences humaines et sociales, vous pouvez suivre [Débugue tes humanités](https://debugue.ecrituresnumeriques.ca/). Débugue est un programme dispensé à l'Université de Montréal par des chercheur·es en humanités numériques. Les séances se déroulent en mode hybride les mardis de 19h à 21h (heure de Paris) à raison de deux séances par mois. Le lien pour se connecter en visioconférence est disponible sur le site Web de la formation.

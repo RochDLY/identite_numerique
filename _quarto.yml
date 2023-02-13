@@ -8,35 +8,35 @@ website:
     search: true
     contents:
       - index.qmd
-      - bibliographie.qmd
+      - posts/bibliographie.qmd
       - section: "Séances de cours"
         contents:
-          - 180123.qmd
-          - 250123.qmd
-          - 010223.qmd
-          - 080223.qmd
-          - 150223.qmd
-          - 220223.qmd
-          - 080323.qmd
-          - 150323.qmd
-          - 220323.qmd
-          - 290323.qmd
-          - 050423.qmd
-#          - 120423.qmd
-          - 190423.qmd
+          - posts/180123.qmd
+          - posts/250123.qmd
+          - posts/010223.qmd
+          - posts/080223.qmd
+          - posts/150223.qmd
+          - posts/220223.qmd
+          - posts/080323.qmd
+          - posts/150323.qmd
+          - posts/220323.qmd
+          - posts/290323.qmd
+          - posts/050423.qmd
+#          - posts/120423.qmd
+          - posts/190423.qmd
       - section: "Outils"
         contents:
-          - escriptorium.qmd
-          - gephi.qmd
-          - git.qmd
-          - hypothesis.qmd
-          - isidore.qmd
-          - omeka.qmd
-          - opentheso.qmd
-          - stylo.qmd
-          - terminal.qmd
-          - voyant-tools.qmd
-          - zotero.qmd
+#          - tools/escriptorium.qmd
+#          - tools/gephi.qmd
+#          - tools/git.qmd
+#          - tools/hypothesis.qmd
+#          - tools/isidore.qmd
+#          - tools/omeka.qmd
+#          - tools/opentheso.qmd
+          - tools/stylo.qmd
+          - tools/terminal.qmd
+#          - tools/voyant-tools.qmd
+#          - tools/zotero.qmd
   page-footer: 
     left : "© 2023 WTFPL, Roch Delannay"
     right : "Ce site a été réalisé avec [Quarto](https://quarto.org)"

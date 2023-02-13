@@ -79,5 +79,80 @@
   },
   "escriptorium.qmd": {
     "escriptorium.html": "a30cfeae"
+  },
+  "tools/zotero.qmd": {
+    "zotero.html": "35bdb565"
+  },
+  "tools/omeka.qmd": {
+    "omeka.html": "af2e588b"
+  },
+  "tools/opentheso.qmd": {
+    "opentheso.html": "8ec44846"
+  },
+  "tools/hypothesis.qmd": {
+    "hypothesis.html": "949f86ec"
+  },
+  "tools/git.qmd": {
+    "git.html": "f27c001a"
+  },
+  "tools/escriptorium.qmd": {
+    "escriptorium.html": "e2143216"
+  },
+  "tools/voyant-tools.qmd": {
+    "voyant-tools.html": "c230503f"
+  },
+  "tools/isidore.qmd": {
+    "isidore.html": "b169460a"
+  },
+  "tools/terminal.qmd": {
+    "terminal.html": "4932d653"
+  },
+  "tools/gephi.qmd": {
+    "gephi.html": "db5a25c6"
+  },
+  "tools/stylo.qmd": {
+    "stylo.html": "d26e8d2c"
+  },
+  "posts/180123.qmd": {
+    "180123.html": "db4cb5b4"
+  },
+  "posts/080323.qmd": {
+    "080323.html": "d94cfd5b"
+  },
+  "posts/bibliographie.qmd": {
+    "bibliographie.html": "e67aa600"
+  },
+  "posts/010223.qmd": {
+    "010223.html": "7d3dde03"
+  },
+  "posts/250123.qmd": {
+    "250123.html": "3562d7d6"
+  },
+  "posts/150223.qmd": {
+    "150223.html": "bf79932d"
+  },
+  "posts/120423.qmd": {
+    "120423.html": "59491524"
+  },
+  "posts/220223.qmd": {
+    "220223.html": "51c9e44e"
+  },
+  "posts/190423.qmd": {
+    "190423.html": "45dcfaee"
+  },
+  "posts/050423.qmd": {
+    "050423.html": "2da3d3b9"
+  },
+  "posts/290323.qmd": {
+    "290323.html": "b72f479c"
+  },
+  "posts/080223.qmd": {
+    "080223.html": "ff1a05f8"
+  },
+  "posts/220323.qmd": {
+    "220323.html": "4bef05e6"
+  },
+  "posts/150323.qmd": {
+    "150323.html": "53bad17d"
   }
 }
