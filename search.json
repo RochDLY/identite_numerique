@@ -1,210 +1,252 @@
 [
   {
-    "objectID": "180123.html",
-    "href": "180123.html",
-    "title": "18 janvier 2023",
+    "objectID": "tools/terminal.html",
+    "href": "tools/terminal.html",
+    "title": "Le Terminal",
     "section": "",
-    "text": "Bienvenue à toutes et à tous à notre premier cours sur les Identités numériques.\n\n\n\n\n\n\nNote\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+    "text": "Suivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
   },
   {
-    "objectID": "180123.html#déroulé-de-la-séance",
-    "href": "180123.html#déroulé-de-la-séance",
-    "title": "18 janvier 2023",
-    "section": "Déroulé de la séance",
-    "text": "Déroulé de la séance\n\nPrésentation du site web et des ressources ;\nPrésentation du plan du cours ;\nExercice 1 ;\nIntroduction à la notion d’identité numérique ;\nPrésentation de la séance du 25 janvier ;\nQuestions."
-  },
-  {
-    "objectID": "180123.html#exercice-1",
-    "href": "180123.html#exercice-1",
-    "title": "18 janvier 2023",
-    "section": "Exercice 1",
-    "text": "Exercice 1\n\nDéfinir en une phrase l’identité numérique."
-  },
-  {
-    "objectID": "180123.html#définitions",
-    "href": "180123.html#définitions",
-    "title": "18 janvier 2023",
-    "section": "Définitions",
-    "text": "Définitions\n\n\n\n\n\n\nIdentité numérique - O. Ertzscheid\n\n\n\n\n\n\nL’identité numérique est constituée de la somme des traces numériques se rapportant à un individu ou à une collectivité : des traces « profilaires » correspondant à ce que je dis de moi (qui suis-je ?) ; des traces « navigationnelles » qui renseignent sur les sites que je fréquente et sur lesquels je commente ou j’achète (comment je me comporte) ; enfin des traces inscriptibles et déclaratives – ce que je publie sur mon blog par exemple – qui reflètent directement mes idées et mes opinions (ce que je pense).\nDe manière plus circonstanciée, l’identité numérique peut être définie comme la collection des traces (écrits, contenus audios ou vidéos, messages sur des forums, identifiants de connexion, etc.) que nous laissons derrière nous, consciemment ou inconsciemment, au fil de nos navigations sur le réseau et le reflet de cet ensemble de traces, tel qu’il apparaît « remixé » par les moteurs de recherche.\n\nOlivier Ertzscheid, Qu’est-ce que l’identité numérique ?\n\n\n\n\n\n\n\n\n\nIdentité Numérique - D. Cardon\n\n\n\n\n\n\nL’identité numérique est un processus collectif : les participants montrent d’eux des signes que les autres approuvent plutôt que des signes qui ne retiennent pas leur attention. Leur identité est produite par le réseau social d’amis qu’ils ont choisi, par leur utilisation de telle ou telle plateforme, par le fait qu’ils s’exposent aux commentaires et aux likes de personnes qui, elles-mêmes, exposent et privilégient tel ou tel trait de leur propre identité. Bref, leur identité numérique n’appartient pas totalement aux individus. Elle est la conséquence de l’espace social dans lequel ils interagissent.\n\nDominique Cardon, “Identité en ligne”."
-  },
-  {
-    "objectID": "180123.html#lectures-de-la-semaine",
-    "href": "180123.html#lectures-de-la-semaine",
-    "title": "18 janvier 2023",
-    "section": "Lectures de la semaine",
-    "text": "Lectures de la semaine\n\nLecture obligatoire\n\nErtzscheid, O. (2013). “Les logiques identitaires”. Dans Qu’est-ce que l’identité numérique ?. OpenEdition Press. https://books.openedition.org/oep/405\n\n\n\nLecture optionnelle\n\nCardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm"
-  },
-  {
-    "objectID": "180123.html#pour-la-semaine-prochaine",
-    "href": "180123.html#pour-la-semaine-prochaine",
-    "title": "18 janvier 2023",
-    "section": "Pour la semaine prochaine",
-    "text": "Pour la semaine prochaine\n\nDésigner deux Secrétaires pour les notes collaboratives.\n\nExercice :\n\nRéaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;\nSe présenter en 3 lignes dans le pad du 18 janvier 2023.\n\n\n\n\n\n\n\nDanger\n\n\n\nAttention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !"
-  },
-  {
-    "objectID": "080323.html",
-    "href": "080323.html",
-    "title": "08 mars 2023",
+    "objectID": "tools/stylo.html",
+    "href": "tools/stylo.html",
+    "title": "Stylo",
     "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+    "text": "Stylo est un éditeur de texte en ligne spécialisé pour les SHS développé par la Chaire de recherche sur les écritures numériques au Canada.\nLa documentation est disponible en cliquant sur ce lien."
   },
   {
-    "objectID": "bibliographie.html",
-    "href": "bibliographie.html",
-    "title": "Bibliographie",
-    "section": "",
-    "text": "Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm\nCassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil.\nDelannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nErtzscheid, O. (2013). Qu’est-ce que l’identité numérique ? OpenEdition Press.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin.\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
+    "objectID": "tools/stylo.html#description",
+    "href": "tools/stylo.html#description",
+    "title": "Stylo",
+    "section": "Description",
+    "text": "Description\nStylo est un éditeur de texte sémantique développé par la Chaire de recherche du Canada sur les écritures numériques. Stylo est une solution SaaS (Software as a Service) hébergée par la TGIR des Humanités numériques Huma-Num, et centralise une multitude de fonctionnalités au coeur des enjeux de l’édition scientifique. Stylo permet, en plus de l’activité initiale d’écriture en Markdown, d’éditer les métadonnées d’un document, de suivre les évolutions d’un document grâce au versionnage de fichier, de gérer les données bibliographiques (notamment via Zotero ou en BibTeX), d’annoter les documents, de les partager avec des collaborateurs et, enfin, de les exporter dans différents formats. Cette dernière propriété repose sur Pandoc pour convertir les trois sources (YAML pour les métadonnées, Markdown pour le texte et BibTeX pour la bibliographie) vers les différents formats de sortie (output)."
   },
   {
-    "objectID": "bibliographie.html#références-complémentaires",
-    "href": "bibliographie.html#références-complémentaires",
-    "title": "Bibliographie",
-    "section": "Références complémentaires",
-    "text": "Références complémentaires\n\nCardon, D. ; Casilli, A. (2015). Qu’est-ce que le digital labor ? INA Editions.\nCarré D., Panico, R. (2010). « Le contrôle social à l’heure des technologies de mobilité et de connectivité : du fichage ciblé des individus au traçage continu des agissements », Colloque Creis-Terminal.\nCasilli, Antonio A. (2010). Les liaisons numériques : vers une nouvelle sociabilité ? Seuil.\nCastoriadis, C. (1975). L’institution imaginaire de la société. Seuil.\nCrozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. I2D - Information, donnees documents, 53(2), 62‑64.\nFlichy, P. (2001). L’imaginaire d’internet. La Découverte.\nGalinon-Mélénec, B. ; Liénard, F. ; Zlitni, S. (2015). L’homme-trace : inscriptions corporelles et techniques. CNRS Editions.\nGoody, J. (1979). La raison graphique : la domestication de la pensée sauvage. Minuit.\nHayles, N. K. (2015). Parole, écriture, code. Les Presses du réel.\nIngold, T. (2013). Une brève histoire des lignes. Zones sensibles.\nJeanneret, Y. (2019). La fabrique de la trace. ISTE Editions.\nKittler, F. A. (2015). Mode protégé. Les Presses du réel.\nKembellec, G. (2020). L’érudition numérique palimpseste. Hermes, La Revue, n° 87(2), 145‑158.\nLakoff et Johnson (1980 [1986]). Les métaphores dans la vie quotidienne. Minuit.\nMauss, M. (2007). Essai sur le don : forme et raison de l’échange dans les sociétés archaïques don contre-don. PUF.\nMarx, K. (1968). Le Capital. Livre I. Gallimard.\nMonjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. Sens public. https://doi.org/10.7202/1043638ar\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208\nVitali-Rosati, M. (2021). Pour une pensée préhumaine. Sens public, (SP1596). http://sens-public.org/articles/1598/\nZuboff, S., Formentelli, B. et Homassel, A.-S. (2020). L’âge du capitalisme de surveillance : Le combat pour un avenir humain face aux nouvelles frontières du pouvoir. Zulma."
+    "objectID": "tools/stylo.html#premiers-pas",
+    "href": "tools/stylo.html#premiers-pas",
+    "title": "Stylo",
+    "section": "Premiers pas",
+    "text": "Premiers pas\nPour faire vos premiers pas avec ce logiciel, vous pouvez vous rendre sur cette page Web.\nCette page vous aidera à créer un compte, à comprendre la structure des articles mais aussi l’ensemble des fonctionnalités basiques à votre disposition."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Plan de cours",
     "section": "",
-    "text": "Le cours “Identités numériques” est dispensé à l’Université Paris Nanterre au second semestre 2023.\n\n\nCours en présentiel le mercredi de 10h30 à 12h30 dans la salle LR15.\nRoch Delannay - rdelannay@parisnanterre.fr\n\n\n\n\n\n\nNote\n\n\n\nLorsque vous souhaitez m’envoyer un courriel, merci d’indiquer la mention “[Identités numériques]” entre crochets au début de chaque objet attaché au message.\nExemple d’objet de courriel : [Identités numériques] Questions relatives au cours du 18 janvier 2023.\n\n\n\n\n\nCe cours est programmé en présentiel à partir du mercredi 18 janvier 2023, les étudiant·e·s doivent donc être présent·e·s à toutes les séances tant que les conditions le permettent. Ce plan de cours est susceptible d’évoluer, les étudiant·e·s seront prévenu·e·s au fur et à mesure.\n\n\n\nVotre présence en cours est obligatoire (dans la limite de trois absences non justifiées). La présence n’est pas évaluée mais je note qui est présent en classe. En suivant ce cours vous vous engagez à venir autant que possible à chaque séance et à suivre les recommandations suivantes :\n\npréparation : lectures demandées et relecture du cours ;\nconcentration : éviter les distractions pendant les séances ;\nêtre actif·ve : écouter le cours, participer aux manipulations, poser des questions ;\nécouter : lorsque d’autres étudiant·e·s prennent la parole, écoutez-les ;\ncréer des connexions : synthétiser et mettre en rapport les différents contenus présentés.\n\n\n\n\n\n\n\nNote\n\n\n\nIl est attendu des étudiant·e·s qu’ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce lien. Pour de plus amples informations, se référer à la section évaluations."
+    "text": "Le cours “Identités numériques” est dispensé à l’Université Paris Nanterre au second semestre 2023.\n\n\nCours en présentiel le mercredi de 10h30 à 12h30 dans la salle LR15.\nRoch Delannay - rdelannay@parisnanterre.fr\n\n\n\n\n\n\nNote\n\n\n\nLorsque vous souhaitez m’envoyer un courriel, merci d’indiquer la mention “[Identités numériques]” entre crochets au début de chaque objet attaché au message.\nExemple d’objet de courriel : [Identités numériques] Questions relatives au cours du 18 janvier 2023.\n\n\n\n\n\nCe cours est programmé en présentiel à partir du mercredi 18 janvier 2023, les étudiant·e·s doivent donc être présent·e·s à toutes les séances tant que les conditions le permettent. Ce plan de cours est susceptible d’évoluer, les étudiant·e·s seront prévenu·e·s au fur et à mesure.\n\n\n\nVotre présence en cours est obligatoire (dans la limite de trois absences non justifiées). La présence n’est pas évaluée mais je note qui est présent en classe. En suivant ce cours vous vous engagez à venir autant que possible à chaque séance et à suivre les recommandations suivantes :\n\npréparation : lectures demandées et relecture du cours ;\nconcentration : éviter les distractions pendant les séances ;\nêtre actif·ve : écouter le cours, participer aux manipulations, poser des questions ;\nécouter : lorsque d’autres étudiant·e·s prennent la parole, écoutez-les ;\ncréer des connexions : synthétiser et mettre en rapport les différents contenus présentés.\n\n\n\n\n\n\n\nNote\n\n\n\nIl est attendu des étudiant·e·s qu’ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce lien.\nLes notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s’approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un “outil” pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l’objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l’ensemble de la classe, étudiant·e ou enseignant, etc.).\n\n\n\n\n\n\nImportant\n\n\n\n\n\nAfin d’illustrer au mieux les problématiques liées aux identités numériques, il est demandé aux étudiant·e·s de s’authentifier sur l’application Hedgedoc (par exemple via l’instance GitHub pour ne pas multiplier les identifiants)."
   },
   {
     "objectID": "index.html#objectifs",
     "href": "index.html#objectifs",
     "title": "Plan de cours",
     "section": "Objectifs",
-    "text": "Objectifs\nLe cours est fondé sur la question suivante : comment l’identité est-elle reformulée par les formats standardisés des sites Web ? Nous y analyserons l’articulation entre des expressions individuelles et les logiques industrielles qui les encadrent. Un focus particulier sera fait sur les écritures numériques (notamment sur les réseaux socio-numériques (RSN)) qui mettent en exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret 2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi produites.\n\nOrganisation des séances\nLes séances alterneront des “cours magistraux” ainsi que des “démonstrations techniques” autour de notions théoriques qui seront abordées.\nIl est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.\n\n18 janvier 2023 - Introduction au cours “Identités numériques”\n25 janvier 2023 - Définir l’identité numérique\n01 février 2023 - Des profils préfabriqués\n08 février 2023 - Des profils préfabriqués (2)\n15 février 2023 - L’écriture numérique\n22 février 2023 - L’éditorialisation\n01 mars 2023 - Semaine de vacances\n08 mars 2023 - Traces & capitalisme de surveillance\n15 mars 2023 - Pour une réappropriation collective des traces\n22 mars 2023 - Le profil : un nouveau territoire imaginaire ?\n29 mars 2023 - Exploitation des données à travers la théorie des graphes\n05 avril 2023 - La bienveillance des machines\n12 avril 2023 - Semaine de vacances\n19 avril 2023 - Devoir sur table\n\n\n\nModalités d’évaluations\nTrois modalités d’évaluation permettront aux étudiant·e·s de valider ce cours :\n\nParticipation à la prise de notes collaboratives ;\nRéalisation d’un autoportrait en binôme (autoportrait et résumé critique du processus).\nUn devoir sur table lors de la dernière séance.\n\n\nLes notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s’approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un “outil” pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l’objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l’ensemble de la classe, étudiant·e ou enseignant, etc.).\n\n\n\n\n\n\n\nImportant\n\n\n\n\n\nAfin d’illustrer au mieux les problématiques liées aux identités numériques, il est demandé aux étudiant·e·s de s’authentifier sur l’application Hedgedoc (par exemple via l’instance GitHub pour ne pas multiplier les identifiants).\n\n\n\n\n\n\n\n\n\nSecrétaires de séance\n\n\n\n\n\nDeux secrétaires par séance devront veiller au bon fonctionnement des notes collaboratives.\n\n\n\n\nChaque binôme devra réaliser un autoportrait. Les autoportraits seront à déposer à une date définie ultérieurement. De plus, il est demandé à chaque binôme d’écrire un résumé critique du processus d’élaboration de l’autoportrait en lien avec les notions du cours (3000 signes espaces compris).\nDevoir sur table."
+    "text": "Objectifs\nLe cours est fondé sur la question suivante : comment l’identité est-elle reformulée par les formats standardisés des sites Web ? Nous y analyserons l’articulation entre des expressions individuelles et les logiques industrielles qui les encadrent. Un focus particulier sera fait sur les écritures numériques (notamment sur les réseaux socio-numériques (RSN)) qui mettent en exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret 2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi produites.\n\nOrganisation des séances\nLes séances alterneront des “cours magistraux” ainsi que des “démonstrations techniques” autour de notions théoriques qui seront abordées.\nIl est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.\n\n18 janvier 2023 - Introduction au cours “Identités numériques”\n25 janvier 2023 - Définir l’identité numérique\n01 février 2023 - Des profils préfabriqués\n08 février 2023 - Des profils préfabriqués (2)\n15 février 2023 - L’écriture numérique\n22 février 2023 - L’éditorialisation\n01 mars 2023 - Semaine de vacances\n08 mars 2023 - Traces & capitalisme de surveillance\n15 mars 2023 - Pour une réappropriation collective des traces\n22 mars 2023 - Le profil : un nouveau territoire imaginaire ?\n29 mars 2023 - Exploitation des données à travers la théorie des graphes\n05 avril 2023 - La bienveillance des machines\n12 avril 2023 - Semaine de vacances\n19 avril 2023 - Devoir sur table\n\n\n\nModalités d’évaluations\nTrois modalités d’évaluation permettront aux étudiant·e·s de valider ce cours :\n\nRéalisation d’un autoportrait en binôme (autoportrait et résumé critique du processus).\nUn devoir sur table lors de la dernière séance.\n\n\nChaque binôme devra réaliser un autoportrait. Les autoportraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le 8 mars 2023.\nIl est également demandé à chaque binôme d’écrire un résumé critique du processus d’élaboration de l’autoportrait en lien avec les notions du cours (4000 signes espaces compris), à rendre pour le 29 mars 2023.\n\n\n\n\n\n\n\nTrinômes\n\n\n\nPour celles et ceux qui souhaitent former des trinômes :\n\nl’autoportrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre) ;\nle résumé critique devra comprendre cette nouvelle dimension et passe de 4000 à 6000 signes espaces compris).\n\n\n\n\nDevoir sur table."
   },
   {
-    "objectID": "010223.html",
-    "href": "010223.html",
+    "objectID": "index.html#informations-complémentaires",
+    "href": "index.html#informations-complémentaires",
+    "title": "Plan de cours",
+    "section": "Informations complémentaires",
+    "text": "Informations complémentaires\nPour ceux qui souhaitent suivre une formation gratuite, en ligne, sur les écritures numériques en sciences humaines et sociales, vous pouvez suivre Débugue tes humanités. Débugue est un programme dispensé à l’Université de Montréal par des chercheur·es en humanités numériques. Les séances se déroulent en mode hybride les mardis de 19h à 21h (heure de Paris) à raison de deux séances par mois. Le lien pour se connecter en visioconférence est disponible sur le site Web de la formation."
+  },
+  {
+    "objectID": "posts/180123.html",
+    "href": "posts/180123.html",
+    "title": "18 janvier 2023",
+    "section": "",
+    "text": "Bienvenue à toutes et à tous à notre premier cours sur les Identités numériques.\n\n\n\n\n\n\nNote\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/180123.html#déroulé-de-la-séance",
+    "href": "posts/180123.html#déroulé-de-la-séance",
+    "title": "18 janvier 2023",
+    "section": "Déroulé de la séance",
+    "text": "Déroulé de la séance\n\nPrésentation du site web et des ressources ;\nPrésentation du plan du cours ;\nExercice 1 ;\nIntroduction à la notion d’identité numérique ;\nPrésentation de la séance du 25 janvier ;\nQuestions."
+  },
+  {
+    "objectID": "posts/180123.html#exercice-1",
+    "href": "posts/180123.html#exercice-1",
+    "title": "18 janvier 2023",
+    "section": "Exercice 1",
+    "text": "Exercice 1\n\nDéfinir en une phrase l’identité numérique."
+  },
+  {
+    "objectID": "posts/180123.html#définitions",
+    "href": "posts/180123.html#définitions",
+    "title": "18 janvier 2023",
+    "section": "Définitions",
+    "text": "Définitions\n\n\n\n\n\n\nIdentité numérique - O. Ertzscheid\n\n\n\n\n\n\nL’identité numérique est constituée de la somme des traces numériques se rapportant à un individu ou à une collectivité : des traces « profilaires » correspondant à ce que je dis de moi (qui suis-je ?) ; des traces « navigationnelles » qui renseignent sur les sites que je fréquente et sur lesquels je commente ou j’achète (comment je me comporte) ; enfin des traces inscriptibles et déclaratives – ce que je publie sur mon blog par exemple – qui reflètent directement mes idées et mes opinions (ce que je pense).\nDe manière plus circonstanciée, l’identité numérique peut être définie comme la collection des traces (écrits, contenus audios ou vidéos, messages sur des forums, identifiants de connexion, etc.) que nous laissons derrière nous, consciemment ou inconsciemment, au fil de nos navigations sur le réseau et le reflet de cet ensemble de traces, tel qu’il apparaît « remixé » par les moteurs de recherche.\n\nOlivier Ertzscheid, Qu’est-ce que l’identité numérique ?\n\n\n\n\n\n\n\n\n\nIdentité Numérique - D. Cardon\n\n\n\n\n\n\nL’identité numérique est un processus collectif : les participants montrent d’eux des signes que les autres approuvent plutôt que des signes qui ne retiennent pas leur attention. Leur identité est produite par le réseau social d’amis qu’ils ont choisi, par leur utilisation de telle ou telle plateforme, par le fait qu’ils s’exposent aux commentaires et aux likes de personnes qui, elles-mêmes, exposent et privilégient tel ou tel trait de leur propre identité. Bref, leur identité numérique n’appartient pas totalement aux individus. Elle est la conséquence de l’espace social dans lequel ils interagissent.\n\nDominique Cardon, “Identité en ligne”."
+  },
+  {
+    "objectID": "posts/180123.html#lectures-de-la-semaine",
+    "href": "posts/180123.html#lectures-de-la-semaine",
+    "title": "18 janvier 2023",
+    "section": "Lectures de la semaine",
+    "text": "Lectures de la semaine\n\nLecture obligatoire\n\nErtzscheid, O. (2013). “Les logiques identitaires”. Dans Qu’est-ce que l’identité numérique ?. OpenEdition Press. https://books.openedition.org/oep/405\n\n\n\nLecture optionnelle\n\nCardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm"
+  },
+  {
+    "objectID": "posts/180123.html#pour-la-semaine-prochaine",
+    "href": "posts/180123.html#pour-la-semaine-prochaine",
+    "title": "18 janvier 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine\n\nDésigner deux Secrétaires pour les notes collaboratives.\n\nExercice :\n\nRéaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;\nSe présenter en 3 lignes dans le pad du 18 janvier 2023.\n\n\n\n\n\n\n\nDanger\n\n\n\nAttention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !"
+  },
+  {
+    "objectID": "posts/080323.html",
+    "href": "posts/080323.html",
+    "title": "08 mars 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/bibliographie.html",
+    "href": "posts/bibliographie.html",
+    "title": "Bibliographie",
+    "section": "",
+    "text": "Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm\nCassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil.\nDelannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nErtzscheid, O. (2013). Qu’est-ce que l’identité numérique ? OpenEdition Press.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin.\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
+  },
+  {
+    "objectID": "posts/bibliographie.html#références-complémentaires",
+    "href": "posts/bibliographie.html#références-complémentaires",
+    "title": "Bibliographie",
+    "section": "Références complémentaires",
+    "text": "Références complémentaires\n\nCardon, D. ; Casilli, A. (2015). Qu’est-ce que le digital labor ? INA Editions.\nCarré D., Panico, R. (2010). « Le contrôle social à l’heure des technologies de mobilité et de connectivité : du fichage ciblé des individus au traçage continu des agissements », Colloque Creis-Terminal.\nCasilli, Antonio A. (2010). Les liaisons numériques : vers une nouvelle sociabilité ? Seuil.\nCastoriadis, C. (1975). L’institution imaginaire de la société. Seuil.\nCrozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. I2D - Information, donnees documents, 53(2), 62‑64.\nFlichy, P. (2001). L’imaginaire d’internet. La Découverte.\nGalinon-Mélénec, B. ; Liénard, F. ; Zlitni, S. (2015). L’homme-trace : inscriptions corporelles et techniques. CNRS Editions.\nGoody, J. (1979). La raison graphique : la domestication de la pensée sauvage. Minuit.\nHayles, N. K. (2015). Parole, écriture, code. Les Presses du réel.\nIngold, T. (2013). Une brève histoire des lignes. Zones sensibles.\nJeanneret, Y. (2019). La fabrique de la trace. ISTE Editions.\nKittler, F. A. (2015). Mode protégé. Les Presses du réel.\nKembellec, G. (2020). L’érudition numérique palimpseste. Hermes, La Revue, n° 87(2), 145‑158.\nLakoff et Johnson (1980 [1986]). Les métaphores dans la vie quotidienne. Minuit.\nMauss, M. (2007). Essai sur le don : forme et raison de l’échange dans les sociétés archaïques don contre-don. PUF.\nMarx, K. (1968). Le Capital. Livre I. Gallimard.\nMonjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. Sens public. https://doi.org/10.7202/1043638ar\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208\nVitali-Rosati, M. (2021). Pour une pensée préhumaine. Sens public, (SP1596). http://sens-public.org/articles/1598/\nZuboff, S., Formentelli, B. et Homassel, A.-S. (2020). L’âge du capitalisme de surveillance : Le combat pour un avenir humain face aux nouvelles frontières du pouvoir. Zulma."
+  },
+  {
+    "objectID": "posts/010223.html",
+    "href": "posts/010223.html",
     "title": "1er février 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "010223.html#atelier",
-    "href": "010223.html#atelier",
+    "objectID": "posts/010223.html#atelier",
+    "href": "posts/010223.html#atelier",
     "title": "1er février 2023",
     "section": "Atelier",
     "text": "Atelier\n\nprise de note"
   },
   {
-    "objectID": "010223.html#déroulé-de-la-séance",
-    "href": "010223.html#déroulé-de-la-séance",
+    "objectID": "posts/010223.html#déroulé-de-la-séance",
+    "href": "posts/010223.html#déroulé-de-la-séance",
     "title": "1er février 2023",
     "section": "Déroulé de la séance",
     "text": "Déroulé de la séance\n\n\n\n\n\n\nPlan du cours\n\n\n\n\nSur les réseaux socio-numériques, les profils sont des gabarits\n\nLes profils sont construits selon une logique de gabarit\n\n\nL’architexte et son pouvoir éditorial\n\n\nLes pouvoirs éditoriaux des architextes\n\n\n\nLe pré-formatage des profils réduit l’individu à une série de rubriques\n\nLa forme tableau\n\n\nL’exemple de Facebook\n\n\n\nConclusion"
   },
   {
-    "objectID": "010223.html#pour-la-semaine-prochaine",
-    "href": "010223.html#pour-la-semaine-prochaine",
+    "objectID": "posts/010223.html#pour-la-semaine-prochaine",
+    "href": "posts/010223.html#pour-la-semaine-prochaine",
     "title": "1er février 2023",
     "section": "Pour la semaine prochaine",
     "text": "Pour la semaine prochaine\nLire :\n\nMonjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. Sens public. https://doi.org/10.7202/1043638ar"
   },
   {
-    "objectID": "250123.html",
-    "href": "250123.html",
+    "objectID": "posts/250123.html",
+    "href": "posts/250123.html",
     "title": "25 janvier 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "250123.html#déroulé-de-la-séance",
-    "href": "250123.html#déroulé-de-la-séance",
+    "objectID": "posts/250123.html#déroulé-de-la-séance",
+    "href": "posts/250123.html#déroulé-de-la-séance",
     "title": "25 janvier 2023",
     "section": "Déroulé de la séance",
     "text": "Déroulé de la séance\n\nDe quelle identité parle-t-on ?\n\nHistoire et définition de l’identité numérique\n\n\nApparition de la notion d’“identité numérique” et enjeux initiaux.\n\n\nDéfinition de l’identité numérique\n\n\nL’assujettissement à des processus d’identification\n\n\nL’exemple de Google, le “service total”\n\n\n\nLes traçes sont construites\n\nLes identifiants et le matricule militaire\n\n\nSur les sites Web : c’est la même chose\n\n\nUne transformation ontologique de l’individu en chiffre\n\n\n\nConclusion"
   },
   {
-    "objectID": "250123.html#démonstration",
-    "href": "250123.html#démonstration",
+    "objectID": "posts/250123.html#démonstration",
+    "href": "posts/250123.html#démonstration",
     "title": "25 janvier 2023",
     "section": "Démonstration",
     "text": "Démonstration\n\nLes services de Google\nLe service Identité numérique de La Poste."
   },
   {
-    "objectID": "250123.html#pour-la-semaine-prochaine",
-    "href": "250123.html#pour-la-semaine-prochaine",
+    "objectID": "posts/250123.html#pour-la-semaine-prochaine",
+    "href": "posts/250123.html#pour-la-semaine-prochaine",
     "title": "25 janvier 2023",
     "section": "Pour la semaine prochaine",
     "text": "Pour la semaine prochaine\n\nConstruire une liste de liens (URL) menant à des autoportraits sur le Web (à mettre dans Hedgedoc)."
   },
   {
-    "objectID": "150223.html",
-    "href": "150223.html",
+    "objectID": "posts/150223.html",
+    "href": "posts/150223.html",
     "title": "15 février 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "120423.html",
-    "href": "120423.html",
+    "objectID": "posts/150223.html#plan-de-la-séance",
+    "href": "posts/150223.html#plan-de-la-séance",
+    "title": "15 février 2023",
+    "section": "Plan de la séance",
+    "text": "Plan de la séance"
+  },
+  {
+    "objectID": "posts/150223.html#démonstration",
+    "href": "posts/150223.html#démonstration",
+    "title": "15 février 2023",
+    "section": "Démonstration",
+    "text": "Démonstration\nBrève présentation de l’éditeur de texte sémantique Stylo.\nPour plus d’informations, se référer à la page dédiée à cet outil sur ce site Web."
+  },
+  {
+    "objectID": "posts/120423.html",
+    "href": "posts/120423.html",
     "title": "12 avril 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "220223.html",
-    "href": "220223.html",
+    "objectID": "posts/220223.html",
+    "href": "posts/220223.html",
     "title": "22 février 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "190423.html",
-    "href": "190423.html",
+    "objectID": "posts/190423.html",
+    "href": "posts/190423.html",
     "title": "19 avril 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "050423.html",
-    "href": "050423.html",
+    "objectID": "posts/050423.html",
+    "href": "posts/050423.html",
     "title": "05 avril 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "290323.html",
-    "href": "290323.html",
+    "objectID": "posts/290323.html",
+    "href": "posts/290323.html",
     "title": "29 mars 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "terminal.html",
-    "href": "terminal.html",
-    "title": "Le Terminal",
-    "section": "",
-    "text": "Suivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
-  },
-  {
-    "objectID": "080223.html",
-    "href": "080223.html",
+    "objectID": "posts/080223.html",
+    "href": "posts/080223.html",
     "title": "08 février 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\n\n\n\nFaire une analyse sémio de plusieurs réseaux sociaux en binôme ou trinôme (par exemple : LinkedIn, Twitter, Snapchat, TikTok, Pinterest, etc.) ;\nMettre en commun.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/\nMySpace\nFacebook\nYouTube\n\n\n\n\nNom du site\nMySpace [Mon Espace]\nFacebook [Livre de visages ; vocable US pour le “trombinoscope”]\nYouTube [VousTube]\n\n\nSème “personnel”\nMy [Possessif > propriété]\nFace [Visage > Corps, photo d’identité]\nYou [Pronom vous/tu > personne]\n\n\nSème “dispositif”\nSpace [Spatialité > territorialité]\nBook [Livre/pages reliées > lisibilité]\nTube [Cathodique, TV > audiovisualité]\n\n\nSignature\n“A place for friends” [Un endroit pour les amis]\n“Facebook vous permet d’échanger et de rester en contact avec les personnes qui vous entourent”\n“Broadcast Yourself” [Diffusez-vous/ Diffusez vous-mêmes]\n\n\n\nSource : Gomez-Mejia, Gustavo (2019). Les Fabriques de soi ? Identité et Industrie sur le web. Paris : MKF, p.47\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDéfinition\n\n\n\n\nNous ne savons qualifier les outils techniques nouveaux que par des métaphores, qui nous les représentent dans les termes de réalités que nous connaissons […] les métaphores qui désignent les objets les masquent par le même mouvement.”\n\n\nJeanneret, Y a-t-il vraiment des technologies de l’information ? 2007. p.39."
   },
   {
-    "objectID": "080223.html#pour-la-semaine-prochaine",
-    "href": "080223.html#pour-la-semaine-prochaine",
+    "objectID": "posts/080223.html#pour-la-semaine-prochaine",
+    "href": "posts/080223.html#pour-la-semaine-prochaine",
     "title": "08 février 2023",
     "section": "Pour la semaine prochaine",
     "text": "Pour la semaine prochaine\nLire :\n\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
   },
   {
-    "objectID": "220323.html",
-    "href": "220323.html",
+    "objectID": "posts/220323.html",
+    "href": "posts/220323.html",
     "title": "22 mars 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "150323.html",
-    "href": "150323.html",
+    "objectID": "posts/150323.html",
+    "href": "posts/150323.html",
     "title": "15 mars 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
