@@ -12,11 +12,28 @@ title: "15 février 2023"
 
 ## Plan de la séance
 
+### Introduction
+### Définir l'écriture
+### Écriture technique, écriture numérique
+### Conclusion
+
+
 ## Démonstration
 
 Brève présentation de l'éditeur de texte sémantique [Stylo](https://stylo.huma-num.fr/).
 
 Pour plus d'informations, se référer à la [page dédiée](/tools/stylo.html) à cet outil sur ce site Web.
 
+Aperçu du fonctionnement de l'interface de Stylo :
 
+![](/images/stylo.png)
 
+## Pour la semaine prochaine
+
+Lire : 
+
+- Merzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158
+
+Lecture optionnelle :
+
+- Vitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208

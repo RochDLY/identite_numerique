@@ -17,3 +17,7 @@ La documentation est disponible en cliquant sur ce [lien](http://stylo-doc.ecrit
 Pour faire vos premiers pas avec ce logiciel, vous pouvez vous rendre sur cette [page Web](http://stylo-doc.ecrituresnumeriques.ca/fr_FR/#!pages/premierspas.md).
 
 Cette page vous aidera à créer un compte, à comprendre la structure des articles mais aussi l'ensemble des fonctionnalités basiques à votre disposition. 
+
+## Aperçu
+
+![](/images/stylo.png)
