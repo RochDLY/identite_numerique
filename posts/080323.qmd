@@ -2,6 +2,13 @@
 title: "08 mars 2023"
 ---
 
+## Le Capitalisme de surveillance
+
+::: {.callout-note}
+
+Le nom de cette séance est largement inspiré de l'ouvrage de Shoshana Zuboff du même nom.
+
+:::
 
 ::: {.callout-note}
 
@@ -9,3 +16,28 @@ title: "08 mars 2023"
 
 :::
 
+## Atelier
+
+Vérification du dépôt des portraits sur la plateforme coursenligne.
+
+## Déroulé de la séance
+
+### Introduction
+
+### Définir les données personnelles
+
+[![Vol de données : comment se protéger ?](https://api-cdn.arte.tv/img/v2/image/L7zDBhF7zPSmoZQ4MsM98m/1920x1080?type=TEXT&watermark=true)](https://www.arte.tv/fr/videos/106527-030-A/27/)
+
+### Les contradictions
+
+### Brève histoire du Web
+
+### Le surplus comportemental
+
+### Conclusion
+
+## Pour la semaine prochaine 
+
+Lire : 
+
+- Merzeau, L. (2013b). L’intelligence des traces. *Intellectica. Revue de l’Association pour la Recherche Cognitive*, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088
