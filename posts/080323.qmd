@@ -4,9 +4,10 @@ title: "08 mars 2023"
 
 ## Le Capitalisme de surveillance
 
-::: {.callout-note}
+::: {.callout-warning}
+### Séance en asynchrone
 
-Le nom de cette séance est largement inspiré de l'ouvrage de Shoshana Zuboff du même nom.
+Exceptionnellement, notre séance se fera en asynchrone.
 
 :::
 
@@ -16,25 +17,13 @@ Le nom de cette séance est largement inspiré de l'ouvrage de Shoshana Zuboff d
 
 :::
 
-## Atelier
 
-Vérification du dépôt des portraits sur la plateforme coursenligne.
+Voici des documents qui pourront alimenter notre réflexion sur les données personnelles : 
 
-## Déroulé de la séance
+- Le texte de Christophe Masutti : https://framablog.org/2022/08/29/bifurquer-avant-limpact-limpasse-du-capitalisme-de-surveillance/
+- Une table ronde sur la chaîne Arte "le vol des données personnelles" : https://www.arte.tv/fr/videos/106527-030-A/27/
 
-### Introduction
-
-### Définir les données personnelles
-
-[![Vol de données : comment se protéger ?](https://api-cdn.arte.tv/img/v2/image/L7zDBhF7zPSmoZQ4MsM98m/1920x1080?type=TEXT&watermark=true)](https://www.arte.tv/fr/videos/106527-030-A/27/)
-
-### Les contradictions
-
-### Brève histoire du Web
-
-### Le surplus comportemental
-
-### Conclusion
+Pour plus d'informations vous pouvez consulter les annonces sur la plateforme coursenligne.
 
 ## Pour la semaine prochaine 
 
