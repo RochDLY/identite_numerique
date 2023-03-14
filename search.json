@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "tools/terminal.html",
-    "href": "tools/terminal.html",
-    "title": "Le Terminal",
-    "section": "",
-    "text": "Suivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
-  },
-  {
     "objectID": "tools/stylo.html",
     "href": "tools/stylo.html",
     "title": "Stylo",
@@ -35,6 +28,13 @@
     "text": "Aperçu"
   },
   {
+    "objectID": "tools/terminal.html",
+    "href": "tools/terminal.html",
+    "title": "Le Terminal",
+    "section": "",
+    "text": "Suivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Plan de cours",
@@ -54,6 +54,69 @@
     "title": "Plan de cours",
     "section": "Informations complémentaires",
     "text": "Informations complémentaires\nPour ceux qui souhaitent suivre une formation gratuite, en ligne, sur les écritures numériques en sciences humaines et sociales, vous pouvez suivre Débugue tes humanités. Débugue est un programme dispensé à l’Université de Montréal par des chercheur·es en humanités numériques. Les séances se déroulent en mode hybride les mardis de 19h à 21h (heure de Paris) à raison de deux séances par mois. Le lien pour se connecter en visioconférence est disponible sur le site Web de la formation."
+  },
+  {
+    "objectID": "posts/080323.html",
+    "href": "posts/080323.html",
+    "title": "08 mars 2023",
+    "section": "",
+    "text": "Note\n\n\n\nLe nom de cette séance est largement inspiré de l’ouvrage de Shoshana Zuboff du même nom.\n\n\n\n\n\n\n\n\nNote\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/080323.html#atelier",
+    "href": "posts/080323.html#atelier",
+    "title": "08 mars 2023",
+    "section": "Atelier",
+    "text": "Atelier\nVérification du dépôt des portraits sur la plateforme coursenligne."
+  },
+  {
+    "objectID": "posts/080323.html#déroulé-de-la-séance",
+    "href": "posts/080323.html#déroulé-de-la-séance",
+    "title": "08 mars 2023",
+    "section": "Déroulé de la séance",
+    "text": "Déroulé de la séance\n\nIntroduction\n\n\nDéfinir les données personnelles\n\n\n\nVol de données : comment se protéger ?\n\n\n\n\nLes contradictions\n\n\nBrève histoire du Web\n\n\nLe surplus comportemental\n\n\nConclusion"
+  },
+  {
+    "objectID": "posts/080323.html#pour-la-semaine-prochaine",
+    "href": "posts/080323.html#pour-la-semaine-prochaine",
+    "title": "08 mars 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine\nLire :\n\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088"
+  },
+  {
+    "objectID": "posts/150223.html",
+    "href": "posts/150223.html",
+    "title": "15 février 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/150223.html#plan-de-la-séance",
+    "href": "posts/150223.html#plan-de-la-séance",
+    "title": "15 février 2023",
+    "section": "Plan de la séance",
+    "text": "Plan de la séance\n\nIntroduction\n\n\nDéfinir l’écriture\n\n\nÉcriture technique, écriture numérique\n\n\nConclusion"
+  },
+  {
+    "objectID": "posts/150223.html#démonstration",
+    "href": "posts/150223.html#démonstration",
+    "title": "15 février 2023",
+    "section": "Démonstration",
+    "text": "Démonstration\nBrève présentation de l’éditeur de texte sémantique Stylo.\nPour plus d’informations, se référer à la page dédiée à cet outil sur ce site Web.\nAperçu du fonctionnement de l’interface de Stylo :"
+  },
+  {
+    "objectID": "posts/150223.html#pour-la-semaine-prochaine",
+    "href": "posts/150223.html#pour-la-semaine-prochaine",
+    "title": "15 février 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine\nLire :\n\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158\n\nLecture optionnelle :\n\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208"
+  },
+  {
+    "objectID": "posts/190423.html",
+    "href": "posts/190423.html",
+    "title": "19 avril 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
     "objectID": "posts/180123.html",
@@ -98,123 +161,18 @@
     "text": "Pour la semaine prochaine\n\nDésigner deux Secrétaires pour les notes collaboratives.\n\nExercice :\n\nRéaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;\nSe présenter en 3 lignes dans le pad du 18 janvier 2023.\n\n\n\n\n\n\n\nDanger\n\n\n\nAttention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !"
   },
   {
-    "objectID": "posts/080323.html",
-    "href": "posts/080323.html",
-    "title": "08 mars 2023",
+    "objectID": "posts/080223.html",
+    "href": "posts/080223.html",
+    "title": "08 février 2023",
     "section": "",
-    "text": "Séance en asynchrone\n\n\n\nExceptionnellement, notre séance se fera en asynchrone.\n\n\n\n\n\n\n\n\nNote\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\nVoici des documents qui pourront alimenter notre réflexion sur les données personnelles :\n\nLe texte de Christophe Masutti : https://framablog.org/2022/08/29/bifurquer-avant-limpact-limpasse-du-capitalisme-de-surveillance/\nUne table ronde sur la chaîne Arte “le vol des données personnelles” : https://www.arte.tv/fr/videos/106527-030-A/27/\n\nPour plus d’informations vous pouvez consulter les annonces sur la plateforme coursenligne."
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\n\n\n\nFaire une analyse sémio de plusieurs réseaux sociaux en binôme ou trinôme (par exemple : LinkedIn, Twitter, Snapchat, TikTok, Pinterest, etc.) ;\nMettre en commun.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/\nMySpace\nFacebook\nYouTube\n\n\n\n\nNom du site\nMySpace [Mon Espace]\nFacebook [Livre de visages ; vocable US pour le “trombinoscope”]\nYouTube [VousTube]\n\n\nSème “personnel”\nMy [Possessif > propriété]\nFace [Visage > Corps, photo d’identité]\nYou [Pronom vous/tu > personne]\n\n\nSème “dispositif”\nSpace [Spatialité > territorialité]\nBook [Livre/pages reliées > lisibilité]\nTube [Cathodique, TV > audiovisualité]\n\n\nSignature\n“A place for friends” [Un endroit pour les amis]\n“Facebook vous permet d’échanger et de rester en contact avec les personnes qui vous entourent”\n“Broadcast Yourself” [Diffusez-vous/ Diffusez vous-mêmes]\n\n\n\nSource : Gomez-Mejia, Gustavo (2019). Les Fabriques de soi ? Identité et Industrie sur le web. Paris : MKF, p.47\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDéfinition\n\n\n\n\nNous ne savons qualifier les outils techniques nouveaux que par des métaphores, qui nous les représentent dans les termes de réalités que nous connaissons […] les métaphores qui désignent les objets les masquent par le même mouvement.”\n\n\nJeanneret, Y a-t-il vraiment des technologies de l’information ? 2007. p.39."
   },
   {
-    "objectID": "posts/080323.html#pour-la-semaine-prochaine",
-    "href": "posts/080323.html#pour-la-semaine-prochaine",
-    "title": "08 mars 2023",
+    "objectID": "posts/080223.html#pour-la-semaine-prochaine",
+    "href": "posts/080223.html#pour-la-semaine-prochaine",
+    "title": "08 février 2023",
     "section": "Pour la semaine prochaine",
-    "text": "Pour la semaine prochaine\nLire :\n\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088"
-  },
-  {
-    "objectID": "posts/bibliographie.html",
-    "href": "posts/bibliographie.html",
-    "title": "Bibliographie",
-    "section": "",
-    "text": "Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm\nCassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil.\nDelannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nErtzscheid, O. (2013). Qu’est-ce que l’identité numérique ? OpenEdition Press.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin.\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
-  },
-  {
-    "objectID": "posts/bibliographie.html#références-complémentaires",
-    "href": "posts/bibliographie.html#références-complémentaires",
-    "title": "Bibliographie",
-    "section": "Références complémentaires",
-    "text": "Références complémentaires\n\nCardon, D. ; Casilli, A. (2015). Qu’est-ce que le digital labor ? INA Editions.\nCarré D., Panico, R. (2010). « Le contrôle social à l’heure des technologies de mobilité et de connectivité : du fichage ciblé des individus au traçage continu des agissements », Colloque Creis-Terminal.\nCasilli, Antonio A. (2010). Les liaisons numériques : vers une nouvelle sociabilité ? Seuil.\nCastoriadis, C. (1975). L’institution imaginaire de la société. Seuil.\nCrozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. I2D - Information, donnees documents, 53(2), 62‑64.\nFlichy, P. (2001). L’imaginaire d’internet. La Découverte.\nGalinon-Mélénec, B. ; Liénard, F. ; Zlitni, S. (2015). L’homme-trace : inscriptions corporelles et techniques. CNRS Editions.\nGoody, J. (1979). La raison graphique : la domestication de la pensée sauvage. Minuit.\nHayles, N. K. (2015). Parole, écriture, code. Les Presses du réel.\nIngold, T. (2013). Une brève histoire des lignes. Zones sensibles.\nJeanneret, Y. (2019). La fabrique de la trace. ISTE Editions.\nKittler, F. A. (2015). Mode protégé. Les Presses du réel.\nKembellec, G. (2020). L’érudition numérique palimpseste. Hermes, La Revue, n° 87(2), 145‑158.\nLakoff et Johnson (1980 [1986]). Les métaphores dans la vie quotidienne. Minuit.\nMauss, M. (2007). Essai sur le don : forme et raison de l’échange dans les sociétés archaïques don contre-don. PUF.\nMarx, K. (1968). Le Capital. Livre I. Gallimard.\nMonjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. Sens public. https://doi.org/10.7202/1043638ar\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208\nVitali-Rosati, M. (2021). Pour une pensée préhumaine. Sens public, (SP1596). http://sens-public.org/articles/1598/\nZuboff, S., Formentelli, B. et Homassel, A.-S. (2020). L’âge du capitalisme de surveillance : Le combat pour un avenir humain face aux nouvelles frontières du pouvoir. Zulma."
-  },
-  {
-    "objectID": "posts/010223.html",
-    "href": "posts/010223.html",
-    "title": "1er février 2023",
-    "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
-  },
-  {
-    "objectID": "posts/010223.html#atelier",
-    "href": "posts/010223.html#atelier",
-    "title": "1er février 2023",
-    "section": "Atelier",
-    "text": "Atelier\n\nprise de note"
-  },
-  {
-    "objectID": "posts/010223.html#déroulé-de-la-séance",
-    "href": "posts/010223.html#déroulé-de-la-séance",
-    "title": "1er février 2023",
-    "section": "Déroulé de la séance",
-    "text": "Déroulé de la séance\n\n\n\n\n\n\nPlan du cours\n\n\n\n\nSur les réseaux socio-numériques, les profils sont des gabarits\n\nLes profils sont construits selon une logique de gabarit\n\n\nL’architexte et son pouvoir éditorial\n\n\nLes pouvoirs éditoriaux des architextes\n\n\n\nLe pré-formatage des profils réduit l’individu à une série de rubriques\n\nLa forme tableau\n\n\nL’exemple de Facebook\n\n\n\nConclusion"
-  },
-  {
-    "objectID": "posts/010223.html#pour-la-semaine-prochaine",
-    "href": "posts/010223.html#pour-la-semaine-prochaine",
-    "title": "1er février 2023",
-    "section": "Pour la semaine prochaine",
-    "text": "Pour la semaine prochaine\nLire :\n\nMonjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. Sens public. https://doi.org/10.7202/1043638ar"
-  },
-  {
-    "objectID": "posts/250123.html",
-    "href": "posts/250123.html",
-    "title": "25 janvier 2023",
-    "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
-  },
-  {
-    "objectID": "posts/250123.html#déroulé-de-la-séance",
-    "href": "posts/250123.html#déroulé-de-la-séance",
-    "title": "25 janvier 2023",
-    "section": "Déroulé de la séance",
-    "text": "Déroulé de la séance\n\nDe quelle identité parle-t-on ?\n\nHistoire et définition de l’identité numérique\n\n\nApparition de la notion d’“identité numérique” et enjeux initiaux.\n\n\nDéfinition de l’identité numérique\n\n\nL’assujettissement à des processus d’identification\n\n\nL’exemple de Google, le “service total”\n\n\n\nLes traçes sont construites\n\nLes identifiants et le matricule militaire\n\n\nSur les sites Web : c’est la même chose\n\n\nUne transformation ontologique de l’individu en chiffre\n\n\n\nConclusion"
-  },
-  {
-    "objectID": "posts/250123.html#démonstration",
-    "href": "posts/250123.html#démonstration",
-    "title": "25 janvier 2023",
-    "section": "Démonstration",
-    "text": "Démonstration\n\nLes services de Google\nLe service Identité numérique de La Poste."
-  },
-  {
-    "objectID": "posts/250123.html#pour-la-semaine-prochaine",
-    "href": "posts/250123.html#pour-la-semaine-prochaine",
-    "title": "25 janvier 2023",
-    "section": "Pour la semaine prochaine",
-    "text": "Pour la semaine prochaine\n\nConstruire une liste de liens (URL) menant à des autoportraits sur le Web (à mettre dans Hedgedoc)."
-  },
-  {
-    "objectID": "posts/150223.html",
-    "href": "posts/150223.html",
-    "title": "15 février 2023",
-    "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
-  },
-  {
-    "objectID": "posts/150223.html#plan-de-la-séance",
-    "href": "posts/150223.html#plan-de-la-séance",
-    "title": "15 février 2023",
-    "section": "Plan de la séance",
-    "text": "Plan de la séance\n\nIntroduction\n\n\nDéfinir l’écriture\n\n\nÉcriture technique, écriture numérique\n\n\nConclusion"
-  },
-  {
-    "objectID": "posts/150223.html#démonstration",
-    "href": "posts/150223.html#démonstration",
-    "title": "15 février 2023",
-    "section": "Démonstration",
-    "text": "Démonstration\nBrève présentation de l’éditeur de texte sémantique Stylo.\nPour plus d’informations, se référer à la page dédiée à cet outil sur ce site Web.\nAperçu du fonctionnement de l’interface de Stylo :"
-  },
-  {
-    "objectID": "posts/150223.html#pour-la-semaine-prochaine",
-    "href": "posts/150223.html#pour-la-semaine-prochaine",
-    "title": "15 février 2023",
-    "section": "Pour la semaine prochaine",
-    "text": "Pour la semaine prochaine\nLire :\n\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158\n\nLecture optionnelle :\n\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208"
-  },
-  {
-    "objectID": "posts/120423.html",
-    "href": "posts/120423.html",
-    "title": "12 avril 2023",
-    "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+    "text": "Pour la semaine prochaine\nLire :\n\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
   },
   {
     "objectID": "posts/220223.html",
@@ -245,39 +203,39 @@
     "text": "Pour la semaine prochaine\nNous n’aurons pas de cours la semaine prochaine.\nLa date pour les autoportraits a été repoussée au 8 mars. La plateforme coursenligne est ouverte au dépôt à partir d’aujourd’hui pour celles et ceux qui souhaiteraient déposer les documents avant la date butoir."
   },
   {
-    "objectID": "posts/190423.html",
-    "href": "posts/190423.html",
-    "title": "19 avril 2023",
+    "objectID": "posts/010223.html",
+    "href": "posts/010223.html",
+    "title": "1er février 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
-    "objectID": "posts/050423.html",
-    "href": "posts/050423.html",
-    "title": "05 avril 2023",
-    "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+    "objectID": "posts/010223.html#atelier",
+    "href": "posts/010223.html#atelier",
+    "title": "1er février 2023",
+    "section": "Atelier",
+    "text": "Atelier\n\nprise de note"
   },
   {
-    "objectID": "posts/290323.html",
-    "href": "posts/290323.html",
-    "title": "29 mars 2023",
-    "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+    "objectID": "posts/010223.html#déroulé-de-la-séance",
+    "href": "posts/010223.html#déroulé-de-la-séance",
+    "title": "1er février 2023",
+    "section": "Déroulé de la séance",
+    "text": "Déroulé de la séance\n\n\n\n\n\n\nPlan du cours\n\n\n\n\nSur les réseaux socio-numériques, les profils sont des gabarits\n\nLes profils sont construits selon une logique de gabarit\n\n\nL’architexte et son pouvoir éditorial\n\n\nLes pouvoirs éditoriaux des architextes\n\n\n\nLe pré-formatage des profils réduit l’individu à une série de rubriques\n\nLa forme tableau\n\n\nL’exemple de Facebook\n\n\n\nConclusion"
   },
   {
-    "objectID": "posts/080223.html",
-    "href": "posts/080223.html",
-    "title": "08 février 2023",
-    "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\n\n\n\nFaire une analyse sémio de plusieurs réseaux sociaux en binôme ou trinôme (par exemple : LinkedIn, Twitter, Snapchat, TikTok, Pinterest, etc.) ;\nMettre en commun.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/\nMySpace\nFacebook\nYouTube\n\n\n\n\nNom du site\nMySpace [Mon Espace]\nFacebook [Livre de visages ; vocable US pour le “trombinoscope”]\nYouTube [VousTube]\n\n\nSème “personnel”\nMy [Possessif > propriété]\nFace [Visage > Corps, photo d’identité]\nYou [Pronom vous/tu > personne]\n\n\nSème “dispositif”\nSpace [Spatialité > territorialité]\nBook [Livre/pages reliées > lisibilité]\nTube [Cathodique, TV > audiovisualité]\n\n\nSignature\n“A place for friends” [Un endroit pour les amis]\n“Facebook vous permet d’échanger et de rester en contact avec les personnes qui vous entourent”\n“Broadcast Yourself” [Diffusez-vous/ Diffusez vous-mêmes]\n\n\n\nSource : Gomez-Mejia, Gustavo (2019). Les Fabriques de soi ? Identité et Industrie sur le web. Paris : MKF, p.47\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDéfinition\n\n\n\n\nNous ne savons qualifier les outils techniques nouveaux que par des métaphores, qui nous les représentent dans les termes de réalités que nous connaissons […] les métaphores qui désignent les objets les masquent par le même mouvement.”\n\n\nJeanneret, Y a-t-il vraiment des technologies de l’information ? 2007. p.39."
-  },
-  {
-    "objectID": "posts/080223.html#pour-la-semaine-prochaine",
-    "href": "posts/080223.html#pour-la-semaine-prochaine",
-    "title": "08 février 2023",
+    "objectID": "posts/010223.html#pour-la-semaine-prochaine",
+    "href": "posts/010223.html#pour-la-semaine-prochaine",
+    "title": "1er février 2023",
     "section": "Pour la semaine prochaine",
-    "text": "Pour la semaine prochaine\nLire :\n\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
+    "text": "Pour la semaine prochaine\nLire :\n\nMonjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. Sens public. https://doi.org/10.7202/1043638ar"
+  },
+  {
+    "objectID": "posts/120423.html",
+    "href": "posts/120423.html",
+    "title": "12 avril 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
     "objectID": "posts/220323.html",
@@ -287,10 +245,80 @@
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
   },
   {
+    "objectID": "posts/250123.html",
+    "href": "posts/250123.html",
+    "title": "25 janvier 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/250123.html#déroulé-de-la-séance",
+    "href": "posts/250123.html#déroulé-de-la-séance",
+    "title": "25 janvier 2023",
+    "section": "Déroulé de la séance",
+    "text": "Déroulé de la séance\n\nDe quelle identité parle-t-on ?\n\nHistoire et définition de l’identité numérique\n\n\nApparition de la notion d’“identité numérique” et enjeux initiaux.\n\n\nDéfinition de l’identité numérique\n\n\nL’assujettissement à des processus d’identification\n\n\nL’exemple de Google, le “service total”\n\n\n\nLes traçes sont construites\n\nLes identifiants et le matricule militaire\n\n\nSur les sites Web : c’est la même chose\n\n\nUne transformation ontologique de l’individu en chiffre\n\n\n\nConclusion"
+  },
+  {
+    "objectID": "posts/250123.html#démonstration",
+    "href": "posts/250123.html#démonstration",
+    "title": "25 janvier 2023",
+    "section": "Démonstration",
+    "text": "Démonstration\n\nLes services de Google\nLe service Identité numérique de La Poste."
+  },
+  {
+    "objectID": "posts/250123.html#pour-la-semaine-prochaine",
+    "href": "posts/250123.html#pour-la-semaine-prochaine",
+    "title": "25 janvier 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine\n\nConstruire une liste de liens (URL) menant à des autoportraits sur le Web (à mettre dans Hedgedoc)."
+  },
+  {
+    "objectID": "posts/290323.html",
+    "href": "posts/290323.html",
+    "title": "29 mars 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
     "objectID": "posts/150323.html",
     "href": "posts/150323.html",
     "title": "15 mars 2023",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/150323.html#déroulé-de-la-séance",
+    "href": "posts/150323.html#déroulé-de-la-séance",
+    "title": "15 mars 2023",
+    "section": "Déroulé de la séance",
+    "text": "Déroulé de la séance\n\nDéfinir les données personnelles\n\n\nLes contradictions\n\n\nBrève histoire du Web\n\n\nLe surplus comportemental\n\n\nConclusion"
+  },
+  {
+    "objectID": "posts/150323.html#pour-la-semaine-prochaine",
+    "href": "posts/150323.html#pour-la-semaine-prochaine",
+    "title": "15 mars 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine\nLire : \n\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54."
+  },
+  {
+    "objectID": "posts/050423.html",
+    "href": "posts/050423.html",
+    "title": "05 avril 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/bibliographie.html",
+    "href": "posts/bibliographie.html",
+    "title": "Bibliographie",
+    "section": "",
+    "text": "Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm\nCassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil.\nDelannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nErtzscheid, O. (2013). Qu’est-ce que l’identité numérique ? OpenEdition Press.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin.\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
+  },
+  {
+    "objectID": "posts/bibliographie.html#références-complémentaires",
+    "href": "posts/bibliographie.html#références-complémentaires",
+    "title": "Bibliographie",
+    "section": "Références complémentaires",
+    "text": "Références complémentaires\n\nCardon, D. ; Casilli, A. (2015). Qu’est-ce que le digital labor ? INA Editions.\nCarré D., Panico, R. (2010). « Le contrôle social à l’heure des technologies de mobilité et de connectivité : du fichage ciblé des individus au traçage continu des agissements », Colloque Creis-Terminal.\nCasilli, Antonio A. (2010). Les liaisons numériques : vers une nouvelle sociabilité ? Seuil.\nCastoriadis, C. (1975). L’institution imaginaire de la société. Seuil.\nCrozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. I2D - Information, donnees documents, 53(2), 62‑64.\nFlichy, P. (2001). L’imaginaire d’internet. La Découverte.\nGalinon-Mélénec, B. ; Liénard, F. ; Zlitni, S. (2015). L’homme-trace : inscriptions corporelles et techniques. CNRS Editions.\nGoody, J. (1979). La raison graphique : la domestication de la pensée sauvage. Minuit.\nHayles, N. K. (2015). Parole, écriture, code. Les Presses du réel.\nIngold, T. (2013). Une brève histoire des lignes. Zones sensibles.\nJeanneret, Y. (2019). La fabrique de la trace. ISTE Editions.\nKittler, F. A. (2015). Mode protégé. Les Presses du réel.\nKembellec, G. (2020). L’érudition numérique palimpseste. Hermes, La Revue, n° 87(2), 145‑158.\nLakoff et Johnson (1980 [1986]). Les métaphores dans la vie quotidienne. Minuit.\nMauss, M. (2007). Essai sur le don : forme et raison de l’échange dans les sociétés archaïques don contre-don. PUF.\nMarx, K. (1968). Le Capital. Livre I. Gallimard.\nMonjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. Sens public. https://doi.org/10.7202/1043638ar\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208\nVitali-Rosati, M. (2021). Pour une pensée préhumaine. Sens public, (SP1596). http://sens-public.org/articles/1598/\nZuboff, S., Formentelli, B. et Homassel, A.-S. (2020). L’âge du capitalisme de surveillance : Le combat pour un avenir humain face aux nouvelles frontières du pouvoir. Zulma."
   }
 ]
