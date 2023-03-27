@@ -2,10 +2,29 @@
 title: "15 mars 2023"
 ---
 
-
+##  Le Capitalisme de surveillance : échanges et discussions
 
 ::: {.callout-note}
 
 [Cliquez ici](https://demo.hedgedoc.org/mlNFlHaaQDmuaVGHtkf20Q#) pour accéder au pad collaboratif.
 
 :::
+
+## Déroulé de la séance
+
+### Définir les données personnelles
+
+### Les contradictions
+
+### Brève histoire du Web
+
+### Le surplus comportemental
+
+### Conclusion
+
+
+## Pour la semaine prochaine
+
+Lire : 
+
+- Merzeau, L. (2018). [Le profil : un nouveau territoire imaginaire ?](https://www.cairn.info/revue-questions-de-communication-2018-2-page-41.htm) Questions de communication, n° 34(2), 41‑54.
