@@ -62,20 +62,20 @@ Les séances alterneront des "cours magistraux" ainsi que des "démonstrations t
 
 Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
 
-- [18 janvier 2023 - Introduction au cours "Identités numériques"](180123.qmd)
-- [25 janvier 2023 - Définir l'identité numérique](250123.qmd)
-- [01 février 2023 - Des profils préfabriqués](010223.qmd)
-- [08 février 2023 - Des profils préfabriqués (2)](080223.qmd)
-- [15 février 2023 - L'écriture numérique](150223.qmd)
-- [22 février 2023 - L'éditorialisation](220223.qmd)
+- [18 janvier 2023 - Introduction au cours "Identités numériques"](posts/180123.qmd)
+- [25 janvier 2023 - Définir l'identité numérique](posts/250123.qmd)
+- [01 février 2023 - Des profils préfabriqués](posts/010223.qmd)
+- [08 février 2023 - Des profils préfabriqués (2)](posts/080223.qmd)
+- [15 février 2023 - L'écriture numérique](posts/150223.qmd)
+- [22 février 2023 - L'éditorialisation](posts/220223.qmd)
 - 01 mars 2023 - Semaine de vacances
-- [08 mars 2023 - Traces & capitalisme de surveillance](080323.qmd)
-- [15 mars 2023 - Pour une réappropriation collective des traces](150323.qmd)
-- [22 mars 2023 - Le profil : un nouveau territoire imaginaire ?](220323.qmd)
-- [29 mars 2023 - Exploitation des données à travers la théorie des graphes](290323.qmd)
-- [05 avril 2023 - La bienveillance des machines](050423.qmd)
+- [08 mars 2023 - Traces & capitalisme de surveillance](posts/080323.qmd)
+- [15 mars 2023 - Pour une réappropriation collective des traces](posts/150323.qmd)
+- [22 mars 2023 - Le profil : un nouveau territoire imaginaire ?](posts/220323.qmd)
+- [29 mars 2023 - Exploitation des données à travers la théorie des graphes](posts/290323.qmd)
+- [05 avril 2023 - La bienveillance des machines](posts/050423.qmd)
 - 12 avril 2023 - Semaine de vacances
-- [19 avril 2023 - Devoir sur table](190423.qmd)
+- [19 avril 2023 - Devoir sur table](posts/190423.qmd)
 
 ### Modalités d'évaluations
 
