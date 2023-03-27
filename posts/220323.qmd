@@ -7,3 +7,13 @@ title: "22 mars 2023"
 [Cliquez ici](https://demo.hedgedoc.org/cJa-bSHJRje_P09K1o_Vlw#) pour accéder au pad collaboratif.
 
 :::
+
+Lors de cette semaine nous avons essayé de faire un condensé des semaines précédentes. 
+
+## Pour la semaine prochaine
+
+- Terminer et remettre sur la plateforme coursenligne les textes critiques sur les portraits / autoportraits ;
+
+- Relire les textes des semaines précédentes ;
+
+- Pour celles eux ceux qui veulent suivre la démonstration de [Gephi](https://gephi.org/).
