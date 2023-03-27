@@ -1,107 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://RochDLY.github.io/identite_numerique/tools/stylo.html</loc>
-    <lastmod>2023-03-14T09:36:30.976Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/tools/terminal.html</loc>
-    <lastmod>2023-03-14T09:36:31.272Z</lastmod>
-  </url>
-  <url>
     <loc>https://RochDLY.github.io/identite_numerique/tools/zotero.html</loc>
-    <lastmod>2023-03-14T09:36:31.552Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/tools/git.html</loc>
-    <lastmod>2023-03-14T09:36:31.824Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/tools/hypothesis.html</loc>
-    <lastmod>2023-03-14T09:36:32.088Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/tools/voyant-tools.html</loc>
-    <lastmod>2023-03-14T09:36:32.344Z</lastmod>
+    <lastmod>2023-03-27T16:21:56.903Z</lastmod>
   </url>
   <url>
     <loc>https://RochDLY.github.io/identite_numerique/tools/omeka.html</loc>
-    <lastmod>2023-03-14T09:36:32.604Z</lastmod>
+    <lastmod>2023-03-27T16:21:57.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/tools/redaction.html</loc>
+    <lastmod>2023-03-27T16:21:57.339Z</lastmod>
   </url>
   <url>
     <loc>https://RochDLY.github.io/identite_numerique/tools/opentheso.html</loc>
-    <lastmod>2023-03-14T09:36:32.888Z</lastmod>
+    <lastmod>2023-03-27T16:21:57.543Z</lastmod>
   </url>
   <url>
-    <loc>https://RochDLY.github.io/identite_numerique/tools/isidore.html</loc>
-    <lastmod>2023-03-14T09:36:33.136Z</lastmod>
+    <loc>https://RochDLY.github.io/identite_numerique/tools/hypothesis.html</loc>
+    <lastmod>2023-03-27T16:21:57.743Z</lastmod>
   </url>
   <url>
-    <loc>https://RochDLY.github.io/identite_numerique/tools/gephi.html</loc>
-    <lastmod>2023-03-14T09:36:33.392Z</lastmod>
+    <loc>https://RochDLY.github.io/identite_numerique/tools/git.html</loc>
+    <lastmod>2023-03-27T16:21:57.935Z</lastmod>
   </url>
   <url>
     <loc>https://RochDLY.github.io/identite_numerique/tools/escriptorium.html</loc>
-    <lastmod>2023-03-14T09:36:33.688Z</lastmod>
+    <lastmod>2023-03-27T16:21:58.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/tools/voyant-tools.html</loc>
+    <lastmod>2023-03-27T16:21:58.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/tools/isidore.html</loc>
+    <lastmod>2023-03-27T16:21:58.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/tools/terminal.html</loc>
+    <lastmod>2023-03-27T16:21:58.683Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/tools/gephi.html</loc>
+    <lastmod>2023-03-27T16:21:58.883Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/tools/stylo.html</loc>
+    <lastmod>2023-03-27T16:21:59.079Z</lastmod>
   </url>
   <url>
     <loc>https://RochDLY.github.io/identite_numerique/index.html</loc>
-    <lastmod>2023-03-14T09:36:34.044Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/080323.html</loc>
-    <lastmod>2023-03-14T09:36:34.336Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/150223.html</loc>
-    <lastmod>2023-03-14T09:36:34.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/190423.html</loc>
-    <lastmod>2023-03-14T09:36:34.884Z</lastmod>
+    <lastmod>2023-03-27T16:21:59.335Z</lastmod>
   </url>
   <url>
     <loc>https://RochDLY.github.io/identite_numerique/posts/180123.html</loc>
-    <lastmod>2023-03-14T09:36:35.180Z</lastmod>
+    <lastmod>2023-03-27T16:21:59.563Z</lastmod>
   </url>
   <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/080223.html</loc>
-    <lastmod>2023-03-14T09:36:35.572Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/220223.html</loc>
-    <lastmod>2023-03-14T09:36:36.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/010223.html</loc>
-    <lastmod>2023-03-14T09:36:36.352Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/120423.html</loc>
-    <lastmod>2023-03-14T09:36:36.700Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/220323.html</loc>
-    <lastmod>2023-03-14T09:36:37.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/250123.html</loc>
-    <lastmod>2023-03-14T09:36:37.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/290323.html</loc>
-    <lastmod>2023-03-14T09:36:37.644Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/150323.html</loc>
-    <lastmod>2023-03-14T09:36:37.940Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RochDLY.github.io/identite_numerique/posts/050423.html</loc>
-    <lastmod>2023-03-14T09:36:38.292Z</lastmod>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/080323.html</loc>
+    <lastmod>2023-03-27T16:21:59.759Z</lastmod>
   </url>
   <url>
     <loc>https://RochDLY.github.io/identite_numerique/posts/bibliographie.html</loc>
-    <lastmod>2023-03-14T09:36:38.636Z</lastmod>
+    <lastmod>2023-03-27T16:21:59.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/010223.html</loc>
+    <lastmod>2023-03-27T16:22:00.207Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/250123.html</loc>
+    <lastmod>2023-03-27T16:22:00.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/150223.html</loc>
+    <lastmod>2023-03-27T16:22:00.603Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/120423.html</loc>
+    <lastmod>2023-03-27T16:22:00.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/220223.html</loc>
+    <lastmod>2023-03-27T16:22:01.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/190423.html</loc>
+    <lastmod>2023-03-27T16:22:01.203Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/050423.html</loc>
+    <lastmod>2023-03-27T16:22:01.427Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/290323.html</loc>
+    <lastmod>2023-03-27T16:22:01.627Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/080223.html</loc>
+    <lastmod>2023-03-27T16:22:01.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/220323.html</loc>
+    <lastmod>2023-03-27T16:22:02.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RochDLY.github.io/identite_numerique/posts/150323.html</loc>
+    <lastmod>2023-03-27T16:22:02.255Z</lastmod>
   </url>
 </urlset>
