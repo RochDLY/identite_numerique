@@ -27,12 +27,13 @@ website:
       - section: "Outils"
         contents:
 #          - tools/escriptorium.qmd
-#          - tools/gephi.qmd
+          - tools/gephi.qmd
 #          - tools/git.qmd
 #          - tools/hypothesis.qmd
 #          - tools/isidore.qmd
 #          - tools/omeka.qmd
 #          - tools/opentheso.qmd
+          - tools/redaction.qmd
           - tools/stylo.qmd
           - tools/terminal.qmd
 #          - tools/voyant-tools.qmd

@@ -13,17 +13,17 @@ Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son
 :::
 
 
-## Qu'est-ce que la théorie des graphes
+### Qu'est-ce que la théorie des graphes
 
-### Introduction
+#### Introduction
 
-### Les graphes : quelques éléments théoriques
+#### Les graphes : quelques éléments théoriques
 
-### ## Les graphes : comment les réaliser ?
+#### Les graphes : comment les réaliser ?
 
-## Atelier
+### Atelier
 
-## Pour la semaine prochaine
+### Pour la semaine prochaine
 
 - Préparer une série de questions avant notre dernière séance ;
 
