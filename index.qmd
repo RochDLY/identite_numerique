@@ -101,6 +101,12 @@ Pour celles et ceux qui souhaitent former des trinômes :
 
 3. Devoir sur table.
 
+::: {.callout-warning}
+
+Pensez à apporter des feuilles et des stylos ! L'examen sera un devoir sur table !
+
+:::
+
 ## Informations complémentaires
 
 Pour ceux qui souhaitent suivre une formation gratuite, en ligne, sur les écritures numériques en sciences humaines et sociales, vous pouvez suivre [Débugue tes humanités](https://debugue.ecrituresnumeriques.ca/). Débugue est un programme dispensé à l'Université de Montréal par des chercheur·es en humanités numériques. Les séances se déroulent en mode hybride les mardis de 19h à 21h (heure de Paris) à raison de deux séances par mois. Le lien pour se connecter en visioconférence est disponible sur le site Web de la formation.
