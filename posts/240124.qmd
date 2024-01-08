@@ -1,6 +1,10 @@
 ---
-title: "25 janvier 2023"
+title: "24 janvier 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
 ---
+
+## Définir l'identité numérique
 
 ::: {.callout-note}
 
@@ -8,35 +12,28 @@ title: "25 janvier 2023"
 
 :::
 
-## Déroulé de la séance
+Support de présentation ([plein écran](/slides/seance2.html){target="_blank"}):
 
-### De quelle identité parle-t-on ?
+```{=html}
 
-#### Histoire et définition de l'identité numérique
+<iframe src="/slides/seance2.html"></iframe>
+```
 
-#### Apparition de la notion d'"identité numérique" et enjeux initiaux.
+## Les devoirs de la semaine précédente
 
-#### Définition de l'identité numérique
+### Lecture obligatoire
 
-#### L'assujettissement à des processus d'identification
+- Lire [@ertzscheid_chapitre_2013]
 
-#### L'exemple de Google, le "service total"
+### Lecture optionnelle
 
-### Les traçes sont construites
+- [@cardon_identite_2019]
 
-#### Les identifiants et le matricule militaire
+### Exercice
 
-#### Sur les sites Web : c'est la même chose
-
-#### Une transformation ontologique de l'individu en chiffre
-
-### Conclusion
-
-## Démonstration
-
-1. Les services de Google
-2. Le service Identité numérique de La Poste. 
+1. Réaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;
+2. Se présenter en 3 lignes dans le pad du 17 janvier 2024.
 
 ## Pour la semaine prochaine
 
-1. Construire une liste de liens (URL) menant à des autoportraits sur le Web (à mettre dans Hedgedoc).  
+1. Construire une liste de liens (URL) menant à des portraits ou autoportraits sur le Web (à mettre dans Hedgedoc).  

@@ -1,5 +1,7 @@
 ---
-title: "08 février 2023"
+title: "07 février 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
 ---
 
 ## Des "profils préfabriqués (2)"
