@@ -1,0 +1,45 @@
+---
+title: "1er février 2023"
+---
+
+## Des "profils préfabriqués"
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/sE80V7f8RAy8_LJeIOnvJA#) pour accéder au pad collaboratif.
+
+:::
+
+## Atelier
+
+- prise de note
+
+## Déroulé de la séance
+
+::: {.callout-note}
+
+## Plan du cours
+
+### Sur les réseaux socio-numériques, les profils sont des gabarits
+
+#### Les profils sont construits selon une logique de gabarit
+
+#### L'architexte et son pouvoir éditorial
+
+#### Les pouvoirs éditoriaux des architextes
+
+### Le pré-formatage des profils réduit l'individu à une série de rubriques
+
+#### La forme tableau
+
+#### L'exemple de Facebook
+
+### Conclusion
+
+:::
+
+## Pour la semaine prochaine 
+
+Lire : 
+
+- Monjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. *Sens public*. https://doi.org/10.7202/1043638ar

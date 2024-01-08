@@ -157,5 +157,41 @@
   },
   "tools/redaction.qmd": {
     "redaction.html": "d7ddacf8"
+  },
+  "posts/170124.qmd": {
+    "170124.html": "4612bb84"
+  },
+  "posts/270324.qmd": {
+    "270324.html": "1993b3ff"
+  },
+  "posts/200324.qmd": {
+    "200324.html": "80d4d40b"
+  },
+  "posts/310124.qmd": {
+    "310124.html": "ebaa1484"
+  },
+  "posts/070224.qmd": {
+    "070224.html": "47da8154"
+  },
+  "posts/060324.qmd": {
+    "060324.html": "8a20a43f"
+  },
+  "posts/140224.qmd": {
+    "140224.html": "e438d04a"
+  },
+  "posts/030424.qmd": {
+    "030424.html": "dae0c1ca"
+  },
+  "posts/130324.qmd": {
+    "130324.html": "650e424b"
+  },
+  "posts/280224.qmd": {
+    "280224.html": "5a01935a"
+  },
+  "posts/100424.qmd": {
+    "100424.html": "3cdc04d8"
+  },
+  "posts/240124.qmd": {
+    "240124.html": "713e2d8f"
   }
 }

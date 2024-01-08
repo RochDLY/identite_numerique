@@ -1,0 +1,54 @@
+---
+title: "08 février 2023"
+---
+
+## Des "profils préfabriqués (2)"
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/J75u7TFtT0uWby_Yimgiqg#) pour accéder au pad collaboratif.
+
+:::
+
+### Atelier
+
+1. Faire une analyse sémio de plusieurs réseaux sociaux en binôme ou trinôme (par exemple : LinkedIn, Twitter, Snapchat, TikTok, Pinterest, etc.) ;
+2. Mettre en commun.
+
+### Les métaphores
+
+### Le nom des sites : la promesse d'une personnalisation
+
+ 
+ / |MySpace | Facebook | YouTube |
+ :---: | :---: | :---: | :---:
+ **Nom du site** | MySpace [Mon Espace] | Facebook [Livre de visages ; vocable US pour le "trombinoscope"] | YouTube [VousTube] |
+ **Sème "personnel"** | My [Possessif > propriété] | Face [Visage > Corps, photo d'identité] | You [Pronom vous/tu > personne] |
+ **Sème "dispositif"** | Space [Spatialité > territorialité] | Book [Livre/pages reliées > lisibilité] | Tube [Cathodique, TV > audiovisualité] |
+ **Signature** | "A place for friends" [Un endroit pour les amis] | "Facebook vous permet d'échanger et de rester en contact avec les personnes qui vous entourent" | "Broadcast Yourself" [Diffusez-vous/ Diffusez vous-mêmes] |
+
+Source : Gomez-Mejia, Gustavo (2019). Les Fabriques de soi ? Identité et Industrie sur le web. Paris : MKF, p.47
+
+### La généralisation d'un vocabulaire : la promesse de socialisation
+
+### Quels enjeux ? 
+
+#### Répondre à un besoin humain très profond
+
+#### Faciliter l'appropriation de la technologie
+
+::: {.callout-note}
+
+##### Définition
+
+> Nous ne savons qualifier les outils techniques nouveaux que par des métaphores, qui nous les représentent dans les termes de réalités que nous connaissons [...] les métaphores qui désignent les objets les masquent par le même mouvement." 
+
+- Jeanneret, *Y a-t-il vraiment des technologies de l’information ?* 2007. p.39.
+
+:::
+
+## Pour la semaine prochaine
+
+Lire : 
+
+- Vitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759

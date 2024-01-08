@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Identités numériques"      
+  title: "Identités numériques"
   sidebar:
     style: "floating"
     search: true
@@ -11,42 +11,38 @@ website:
       - posts/bibliographie.qmd
       - section: "Séances de cours"
         contents:
-          - posts/180123.qmd
-          - posts/250123.qmd
-          - posts/010223.qmd
-          - posts/080223.qmd
-          - posts/150223.qmd
-          - posts/220223.qmd
-          - posts/080323.qmd
-          - posts/150323.qmd
-          - posts/220323.qmd
-          - posts/290323.qmd
-          - posts/050423.qmd
-#          - posts/120423.qmd
-          - posts/190423.qmd
+          - posts/170124.qmd
+#          - posts/240124.qmd
+#          - posts/310124.qmd
+#          - posts/070224.qmd
+#          - posts/140224.qmd
+#          - posts/280224.qmd
+#          - posts/060324.qmd
+#          - posts/130324.qmd
+#          - posts/200324.qmd
+#          - posts/270324.qmd
+#          - posts/030424.qmd
+#          - posts/100424.qmd
       - section: "Outils"
         contents:
-#          - tools/escriptorium.qmd
+          #          - tools/escriptorium.qmd
           - tools/gephi.qmd
-#          - tools/git.qmd
-#          - tools/hypothesis.qmd
-#          - tools/isidore.qmd
-#          - tools/omeka.qmd
-#          - tools/opentheso.qmd
+          #          - tools/git.qmd
+          #          - tools/hypothesis.qmd
+          #          - tools/isidore.qmd
+          #          - tools/omeka.qmd
+          #          - tools/opentheso.qmd
           - tools/redaction.qmd
           - tools/stylo.qmd
           - tools/terminal.qmd
-#          - tools/voyant-tools.qmd
-#          - tools/zotero.qmd
-  page-footer: 
-    left : "© 2023 WTFPL, Roch Delannay"
-    right : "Ce site a été réalisé avec [Quarto](https://quarto.org)"
+  #          - tools/voyant-tools.qmd
+  #          - tools/zotero.qmd
+  page-footer:
+    left: "© 2024 WTFPL, Roch Delannay"
+    right: "Ce site a été réalisé avec [Quarto](https://quarto.org)"
 
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
-
-
-

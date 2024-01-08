@@ -4,11 +4,11 @@ title: "Plan de cours"
 
 ## Identités numériques
 
-Le cours "Identités numériques" est dispensé à l'Université Paris Nanterre au second semestre 2023.
+Le cours "Identités numériques" est dispensé à l'Université Paris Nanterre au second semestre 2024.
 
 ### Informations pratiques
 
-Cours en présentiel le mercredi de 10h30 à 12h30 dans la salle LR15.  
+Cours en présentiel le mercredi de 10h30 à 12h30 dans la salle XXXX.  
 
 Roch Delannay - rdelannay@parisnanterre.fr
 
@@ -16,13 +16,13 @@ Roch Delannay - rdelannay@parisnanterre.fr
 
 Lorsque vous souhaitez m'envoyer un courriel, merci d'indiquer la mention "\[Identités numériques\]" entre crochets au début de chaque objet attaché au message. 
 
-Exemple d'objet de courriel : \[Identités numériques\] Questions relatives au cours du 18 janvier 2023.
+Exemple d'objet de courriel : \[Identités numériques\] Questions relatives au cours du 17 janvier 2024.
 
 :::
 
 ### Note importante
 
-Ce cours est programmé en présentiel à partir du mercredi 18 janvier 2023, les étudiant·e·s doivent donc être présent·e·s à toutes les séances tant que les conditions le permettent. Ce plan de cours est susceptible d’évoluer, les étudiant·e·s seront prévenu·e·s au fur et à mesure.
+Ce cours est programmé en présentiel à partir du mercredi 17 janvier 2024, les étudiant·e·s doivent donc être présent·e·s à toutes les séances tant que les conditions le permettent. Ce plan de cours est susceptible d’évoluer, les étudiant·e·s seront prévenu·e·s au fur et à mesure.
 
 ### Présence et participation 
 
@@ -36,7 +36,7 @@ Votre présence en cours est obligatoire (dans la limite de trois absences non j
 
 ::: {.callout-note}
 
-Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce [lien](https://demo.hedgedoc.org/1WdF94ubQcOV1_EoR1eT9Q#).
+Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce [lien](https://demo.hedgedoc.org/R8VtjHp7SBikJw9USC-JuA#).
 
 Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
 
@@ -62,31 +62,32 @@ Les séances alterneront des "cours magistraux" ainsi que des "démonstrations t
 
 Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
 
-- [18 janvier 2023 - Introduction au cours "Identités numériques"](posts/180123.qmd)
-- [25 janvier 2023 - Définir l'identité numérique](posts/250123.qmd)
-- [01 février 2023 - Des profils préfabriqués](posts/010223.qmd)
-- [08 février 2023 - Des profils préfabriqués (2)](posts/080223.qmd)
-- [15 février 2023 - L'écriture numérique](posts/150223.qmd)
-- [22 février 2023 - L'éditorialisation](posts/220223.qmd)
-- 01 mars 2023 - Semaine de vacances
-- [08 mars 2023 - Traces & capitalisme de surveillance](posts/080323.qmd)
-- [15 mars 2023 - Pour une réappropriation collective des traces](posts/150323.qmd)
-- [22 mars 2023 - Le profil : un nouveau territoire imaginaire ?](posts/220323.qmd)
-- [29 mars 2023 - Exploitation des données à travers la théorie des graphes](posts/290323.qmd)
-- [05 avril 2023 - La bienveillance des machines](posts/050423.qmd)
-- 12 avril 2023 - Semaine de vacances
-- [19 avril 2023 - Devoir sur table](posts/190423.qmd)
+- [17 janvier 2024 - Introduction au cours "Identités numériques"](posts/170124.qmd)
+- [24 janvier 2024 - Définir l'identité numérique](posts/240124.qmd)
+- [31 janvier 2024 - Des profils préfabriqués](posts/310124.qmd)
+- [07 février 2024 - Des profils préfabriqués (2)](posts/070224.qmd)
+- [14 février 2024 - Réalisation de portraits](posts/140224.qmd)
+- 21 février 2024 - Semaine de vacances
+- [28 février 2024 - L'écriture numérique](posts/280224.qmd)
+- [06 mars 2024 - L'éditorialisation](posts/060324.qmd)
+- [13 mars 2024 - Traces & capitalisme de surveillance](posts/130324.qmd)
+- [20 mars 2024 - Pour une réappropriation collective des traces](posts/200324.qmd)
+- [27 mars 2024 - Le profil : un nouveau territoire imaginaire ?](posts/270324.qmd)
+- [03 avril 2024 - Exploitation des données à travers la théorie des graphes](posts/030424.qmd)
+- [10 avril 2024 - Devoir sur table](posts/100424.qmd)
 
 ### Modalités d'évaluations
 
 Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
 
-- Réalisation d'un autoportrait en binôme (autoportrait et résumé critique du processus).
-- Un devoir sur table lors de la dernière séance.
+- Réalisation d'un portrait numérique en binôme 
+    - portrait réalisé en classe
+    - résumé critique du processus
+- Un devoir sur table lors de la dernière séance
 
-1. Chaque binôme devra réaliser un autoportrait. Les autoportraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **8 mars 2023**.
+1. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **06 mars 2024**.
 
-2. Il est également demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (4000 signes espaces compris), à rendre pour le **29 mars 2023**. Ce texte doit être déposé sur la même plateforme que l'autoportrait.
+2. Il est également demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (4000 signes espaces compris), à rendre pour le **13 mars 2024**. Ce texte doit être déposé sur la même plateforme que l'autoportrait.
 
 ::: {.callout-important}
 
@@ -94,8 +95,8 @@ Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cou
 
 Pour celles et ceux qui souhaitent former des trinômes : 
 
-- l'autoportrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre) ;
-- le résumé critique devra comprendre cette nouvelle dimension et passe de 4000 à 6000 signes espaces compris).
+- le portrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre) ;
+- le résumé critique devra comprendre cette nouvelle dimension et passe de 4000 à 6000 signes espaces compris.
 
 :::
 
