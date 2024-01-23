@@ -12,33 +12,16 @@ nocite: false
 
 :::
 
-## Atelier
+Support de présentation ([plein écran](/slides/seance3.html){target="_blank"}):
 
-- prise de note
+```{=html}
 
-## Déroulé de la séance
+<iframe src="/slides/seance3.html"></iframe>
+```
 
-::: {.callout-note}
+## Les devoirs de la semaine précédente
 
-## Plan du cours
-
-### Sur les réseaux socio-numériques, les profils sont des gabarits
-
-#### Les profils sont construits selon une logique de gabarit
-
-#### L'architexte et son pouvoir éditorial
-
-#### Les pouvoirs éditoriaux des architextes
-
-### Le pré-formatage des profils réduit l'individu à une série de rubriques
-
-#### La forme tableau
-
-#### L'exemple de Facebook
-
-### Conclusion
-
-:::
+1. Construire une liste de liens (URL) menant à des portraits ou autoportraits sur le Web (à mettre dans Hedgedoc).  
 
 ## Pour la semaine prochaine 
 

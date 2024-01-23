@@ -4,6 +4,7 @@ bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
 
+## Écriture numérique et éditorialisation
 ## Le Capitalisme de surveillance
 
 ::: {.callout-note}

@@ -4,7 +4,9 @@ bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
 
-## Éditorialisation
+## L'identité numérique sous emprise culturelle
+
+<!-- Revenir aussi sur les articles de Cardon et de Ertzscheid -->
 
 ::: {.callout-note}
 
