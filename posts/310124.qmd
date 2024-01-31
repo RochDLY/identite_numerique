@@ -27,4 +27,4 @@ Support de présentation ([plein écran](/slides/seance3.html){target="_blank"})
 
 Lire : 
 
-- Monjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. *Sens public*. https://doi.org/10.7202/1043638ar
+- [@monjour_dibutade_2015]

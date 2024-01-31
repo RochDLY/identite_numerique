@@ -64,7 +64,7 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 
 - [17 janvier 2024 - Introduction au cours "Identités numériques"](posts/170124.qmd)
 - [24 janvier 2024 - Définir l'identité numérique](posts/240124.qmd)
-- [31 janvier 2024 - Des profils préfabriqués]<!-- (posts/310124.qmd) -->
+- [31 janvier 2024 - Des profils préfabriqués](posts/310124.qmd)
 - [07 février 2024 - Des profils préfabriqués (2)]<!-- (posts/070224.qmd) -->
 - [14 février 2024 - Réalisation de portraits]<!-- (posts/140224.qmd) -->
 - 21 février 2024 - Semaine de vacances
@@ -87,7 +87,7 @@ Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cou
 
 1. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **14 février 2024** au plus tard à **23h59**.
 
-2. Il est également demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration de l'autoportrait en lien avec les notions du cours (4000 signes espaces compris), à rendre pour le **28 février 2024**. Ce texte doit être déposé sur la même plateforme que l'autoportrait.
+2. Il est également demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration du portrait en lien avec les notions du cours (4000 signes espaces compris), à rendre pour le **28 février 2024**. Ce texte doit être déposé sur la même plateforme que l'autoportrait.
 
 ::: {.callout-important}
 

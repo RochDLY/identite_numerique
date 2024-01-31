@@ -4,7 +4,7 @@ bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
 
-## L'écriture numérique
+## Fabrication d'un portrait
 
 ::: {.callout-note}
 
@@ -12,30 +12,33 @@ nocite: false
 
 :::
 
-## Plan de la séance
+## Consigne
 
-### Introduction
-### Définir l'écriture
-### Écriture technique, écriture numérique
-### Conclusion
+Pendant le cours : 
 
+1. Travailler en binôme
+2. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **14 février 2024** au plus tard à **23h59**.
 
-## Démonstration
+::: {.callout-important}
 
-Brève présentation de l'éditeur de texte sémantique [Stylo](https://stylo.huma-num.fr/).
+### Trinômes
 
-Pour plus d'informations, se référer à la [page dédiée](/tools/stylo.html) à cet outil sur ce site Web.
+Pour celles et ceux qui souhaitent former des trinômes : 
 
-Aperçu du fonctionnement de l'interface de Stylo :
+- le portrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre) ;
 
-![](/images/stylo.png)
+:::
 
-## Pour la semaine prochaine
+## Pour le 28 février
 
-Lire : 
+1. Il est également demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration du portrait en lien avec les notions du cours (**4000 signes espaces compris**), à rendre pour le **28 février 2024**. Ce texte doit également être déposé sur coursenligne.
 
-- Merzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158
+::: {.callout-important}
 
-Lecture optionnelle :
+### Trinômes
 
-- Vitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208
+Pour celles et ceux qui souhaitent former des trinômes : 
+
+- le résumé critique devra comprendre cette nouvelle dimension et passe de 4000 à **6000 signes espaces compris**.
+
+:::

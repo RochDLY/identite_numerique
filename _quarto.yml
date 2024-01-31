@@ -12,8 +12,8 @@ website:
       - section: "Séances de cours"
         contents:
           - posts/170124.qmd
-#          - posts/240124.qmd
-#          - posts/310124.qmd
+          - posts/240124.qmd
+          - posts/310124.qmd
 #          - posts/070224.qmd
 #          - posts/140224.qmd
 #          - posts/280224.qmd
@@ -26,15 +26,15 @@ website:
       - section: "Outils"
         contents:
           #          - tools/escriptorium.qmd
-          - tools/gephi.qmd
+#          - tools/gephi.qmd
           #          - tools/git.qmd
           #          - tools/hypothesis.qmd
           #          - tools/isidore.qmd
           #          - tools/omeka.qmd
           #          - tools/opentheso.qmd
           - tools/redaction.qmd
-          - tools/stylo.qmd
-          - tools/terminal.qmd
+#          - tools/stylo.qmd
+#          - tools/terminal.qmd
   #          - tools/voyant-tools.qmd
   #          - tools/zotero.qmd
   page-footer:
