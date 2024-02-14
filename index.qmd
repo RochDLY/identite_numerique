@@ -66,7 +66,7 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 - [24 janvier 2024 - Définir l'identité numérique](posts/240124.qmd)
 - [31 janvier 2024 - Des profils préfabriqués](posts/310124.qmd)
 - [07 février 2024 - Des profils préfabriqués (2)](posts/070224.qmd)
-- [14 février 2024 - Réalisation de portraits]<!-- (posts/140224.qmd) -->
+- [14 février 2024 - Réalisation de portraits](posts/140224.qmd)
 - 21 février 2024 - Semaine de vacances
 - [28 février 2024 - L'identité numérique sous emprise culturelle]<!-- (posts/280224.qmd) -->
 - [06 mars 2024 - Écriture numérique et éditorialisation]<!-- (posts/060324.qmd) -->

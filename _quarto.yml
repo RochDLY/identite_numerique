@@ -15,7 +15,7 @@ website:
           - posts/240124.qmd
           - posts/310124.qmd
           - posts/070224.qmd
-#          - posts/140224.qmd
+          - posts/140224.qmd
 #          - posts/280224.qmd
 #          - posts/060324.qmd
 #          - posts/130324.qmd
