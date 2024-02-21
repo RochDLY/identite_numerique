@@ -6,18 +6,25 @@ nocite: false
 
 ## L'identité numérique sous emprise culturelle
 
-<!-- Revenir aussi sur les articles de Cardon et de Ertzscheid -->
-
 ::: {.callout-note}
 
 [Cliquez ici](https://demo.hedgedoc.org/a8OGbGn3QrWdiuWU9cTDKQ#) pour accéder au pad collaboratif.
 
 :::
 
+Support de présentation ([plein écran](/slides/seance6.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance6.html"></iframe>
+```
 
 
 ## Les devoirs de la semaine précédente
+ 
 
+- Déposer sur cours en ligne la critique du portrait  
+- Lire [@georges_identite_2011]
 
 
 ## Pour la semaine prochaine
