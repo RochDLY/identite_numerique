@@ -69,7 +69,7 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 - [14 février 2024 - Réalisation de portraits](posts/140224.qmd)
 - 21 février 2024 - Semaine de vacances
 - [28 février 2024 - L'identité numérique sous emprise culturelle](posts/280224.qmd)
-- [06 mars 2024 - Écriture numérique et éditorialisation]<!-- (posts/060324.qmd) -->
+- [06 mars 2024 - Écriture numérique et éditorialisation](posts/060324.qmd)
 - [13 mars 2024 - Traces & capitalisme de surveillance]<!-- (posts/130324.qmd) -->
 - [20 mars 2024 - Pour une réappropriation collective des traces]<!-- (posts/200324.qmd) -->
 - [27 mars 2024 - Le profil : un nouveau territoire imaginaire ?]<!-- (posts/270324.qmd) -->
