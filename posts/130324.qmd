@@ -4,7 +4,11 @@ bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
 
-##  Le Capitalisme de surveillance : échanges et discussions
+##  Traces & capitalisme de surveillance
+
+### Débat
+
+Le débat doit être initié à partir des documents à consulter pour aujourd'hui.
 
 ::: {.callout-note}
 
@@ -12,21 +16,22 @@ nocite: false
 
 :::
 
-## Déroulé de la séance
 
-### Définir les données personnelles
+## Atelier
 
-### Les contradictions
+Correction du travail effectué sur le portrait.
 
-### Brève histoire du Web
+## Les devoirs de la semaine précédente
 
-### Le surplus comportemental
+Lire et visionner : 
 
-### Conclusion
+- Le texte de Christophe Masutti : https://framablog.org/2022/08/29/bifurquer-avant-limpact-limpasse-du-capitalisme-de-surveillance/
+- Une table ronde sur la chaîne Arte "le vol des données personnelles" : https://www.arte.tv/fr/videos/106527-030-A/27/
+
 
 
 ## Pour la semaine prochaine
 
 Lire : 
 
-- Merzeau, L. (2018). [Le profil : un nouveau territoire imaginaire ?](https://www.cairn.info/revue-questions-de-communication-2018-2-page-41.htm) Questions de communication, n° 34(2), 41‑54.
+- [@merzeau_lintelligence_2013]

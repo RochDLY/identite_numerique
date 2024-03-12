@@ -18,7 +18,7 @@ website:
           - posts/140224.qmd
           - posts/280224.qmd
           - posts/060324.qmd
-#          - posts/130324.qmd
+          - posts/130324.qmd
 #          - posts/200324.qmd
 #          - posts/270324.qmd
 #          - posts/030424.qmd
