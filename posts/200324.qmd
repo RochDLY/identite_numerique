@@ -4,18 +4,29 @@ bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
 
+## Pour une réappropriation collective des traces
+
 ::: {.callout-note}
 
 [Cliquez ici](https://demo.hedgedoc.org/OAUTj0xcSm2bpsJZ9DASOA#) pour accéder au pad collaboratif.
 
 :::
 
-Lors de cette semaine nous avons essayé de faire un condensé des semaines précédentes. 
+Support de présentation ([plein écran](/slides/seance8.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance8.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+Lire :
+
+- [@merzeau_lintelligence_2013]
 
 ## Pour la semaine prochaine
 
-- Terminer et remettre sur la plateforme coursenligne les textes critiques sur les portraits / autoportraits ;
+Lire : 
 
-- Relire les textes des semaines précédentes ;
-
-- Pour celles eux ceux qui veulent suivre la démonstration de [Gephi](https://gephi.org/).
+- [@merzeau_profil_2018]

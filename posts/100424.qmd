@@ -1,5 +1,7 @@
 ---
 title: "10 avril 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
 ---
 
 ## Examen de fin de cours
@@ -9,3 +11,13 @@ title: "10 avril 2024"
 Pensez à apporter des feuilles et des stylos ! L'examen sera un devoir sur table !
 
 :::
+
+
+## Sujets
+
+Support de présentation ([plein écran](/slides/seance12.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance12.html"></iframe>
+```
