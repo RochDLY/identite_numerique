@@ -4,9 +4,8 @@ bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
 
-## Exploitation des données à travers la théorie des graphes.
+## Le profil : un nouveau territoire imaginaire ?
 
-Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son article ["Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations"](halshs-01610098v2) publié en 2017.
 
 ::: {.callout-note}
 
@@ -14,19 +13,21 @@ Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son
 
 :::
 
+Support de présentation ([plein écran](/slides/seance9.html){target="_blank"}):
 
-### Qu'est-ce que la théorie des graphes
+```{=html}
 
-#### Introduction
+<iframe src="/slides/seance9.html"></iframe>
+```
 
-#### Les graphes : quelques éléments théoriques
+## Les devoirs de la semaine précédente
 
-#### Les graphes : comment les réaliser ?
+Lire : 
 
-### Atelier
+- [@merzeau_profil_2018]
 
-### Pour la semaine prochaine
+## Pour la semaine prochaine
 
-- Préparer une série de questions avant notre dernière séance ;
-
-- Lire : Delannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. *Sens public*. http://sens-public.org/articles/1683/
+1. Révisions :
+    - notez vos questions en lien avec le cours
+    - lire la fiche des [conseils de rédaction](/tools/redaction.qmd) et notez vos questions
