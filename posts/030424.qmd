@@ -4,9 +4,11 @@ bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
 
-## Exploitation des données à travers la théorie des graphes
+## ~~Exploitation des données à travers la théorie des graphes~~ Révisions
 
-Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son article ["Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations"](https://shs.hal.science/halshs-01610098v2) publié en 2017.
+Cette séance a été remplacée par une séance de révisions.
+
+~~Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son article ["Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations"](https://shs.hal.science/halshs-01610098v2) publié en 2017.~~
 
 ::: {.callout-note}
 

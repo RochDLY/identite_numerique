@@ -58,7 +58,7 @@ encadrent. Un focus particulier sera fait sur les écritures numériques (notamm
 
 ### Organisation des séances
 
-Les séances alterneront des "cours magistraux" ainsi que des "démonstrations techniques" autour de notions théoriques qui seront abordées. 
+Les séances alterneront des "cours magistraux" et des discussions ou échanges autour d'exemples illustrant les notions théoriques abordées lors des cours magistraux. 
 
 Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
 
@@ -73,8 +73,8 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 - [13 mars 2024 - Traces & capitalisme de surveillance](posts/130324.qmd)
 - [20 mars 2024 - Pour une réappropriation collective des traces](posts/200324.qmd)
 - [27 mars 2024 - Le profil : un nouveau territoire imaginaire ?](posts/270324.qmd)
-- [03 avril 2024 - Exploitation des données à travers la théorie des graphes]<!-- (posts/030424.qmd) -->
-- [10 avril 2024 - Devoir sur table]<!-- (posts/100424.qmd) -->
+- [03 avril 2024 - ~~Exploitation des données à travers la théorie des graphes~~ Révisions](posts/030424.qmd)
+- [10 avril 2024 - Devoir sur table](posts/100424.qmd)
 
 ### Modalités d'évaluations
 
